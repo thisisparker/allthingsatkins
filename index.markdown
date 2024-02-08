@@ -6,7 +6,7 @@ layout: home
 image: /assets/images/michael_and_lucy.jpg
 ---
 
-<section id="main-image"><img src="{{ page.image }}" /></section>
+<section id="main-image"><img src="{{ page.image | relative_url }}" /></section>
 
 <section id="intro">
 {% capture intro %}{% include intro.markdown %}{% endcapture %}{{ intro | markdownify }}
