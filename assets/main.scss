@@ -1,0 +1,86 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$base-font-family: 'metropolis';
+$background-color: #F4EBD0;
+$michael-blue: #020788;
+$brand-color: $michael-blue;
+@import "minima";
+
+@font-face {
+  font-family: 'metro';
+  src: url('metro-retro.regular.woff2');
+}
+
+@font-face {
+  font-family: 'josefin';
+  src: url('josefin-sans.regular.woff2');
+}
+
+@font-face {
+  font-family: 'metropolis';
+  src: url('metropolis.regular.woff2');
+}
+
+.site-header {
+  border-top: thick double $michael-blue;
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+//main .wrapper {
+//  border-left:  thick double $michael-blue;
+//  border-right: thick double $michael-blue;
+//}
+
+.site-title, h1 {
+  font-family: 'metro';
+}
+
+#main-image {
+  padding-bottom: 20px;
+}
+
+#intro {
+  font-size: 130%;
+}
+
+ul {
+  list-style: square;
+}
+
+a {
+  color: $michael-blue;
+  text-decoration: underline;
+
+  &:visted {
+    color: $michael-blue;
+  }
+}
+
+.outlet-name, .video-context {
+  font-weight: bold;
+}
+
+.clip-date {
+  font-variant: small-caps;
+  font-size: smaller;
+}
+
+.clip-quote {
+  font-style: italic;
+}
+
+.video-duration {
+  font-style: italic;
+  font-size: smaller;
+}
+
+blockquote {
+  border-left: 4px solid $michael-blue;
+}
