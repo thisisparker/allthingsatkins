@@ -25,6 +25,7 @@ $brand-color: $michael-blue;
 
 .site-header {
   border-top: thick double $michael-blue;
+  border-bottom: none;
   a {
     text-decoration: none;
   }
