@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-image: /assets/images/michael_and_lucy.jpg
+image: /assets/uploads/michael_and_lucy.jpg
 intro: |
   Ahoy!
 
