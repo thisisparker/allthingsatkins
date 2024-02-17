@@ -1,25 +1,26 @@
-- outlet: WHYY
-  headline: There are hundreds of bats in FDR Park, living in a complex society that’s vital to park health
-  link: https://billypenn.com/2023/10/28/bat-walk-philadelphia-fdr-park-michael-atkins/
-  date: October 2023
-  quote: Michael Atkins thinks he was a bat in a past life. In fact, he said, human beings have more in common with nature’s only flying mammals than they realize. Atkins—nonprofit communications director by day, bat enthusiast by night—believes learning about the mysterious nightflyers opens Philadelphians up to better understanding their urban ecosystem, and themselves. He led a free bat walk in FDR Park on Saturday, Oct. 28.
-- outlet: 2030 Magazine
-  headline: Pandemic Profile of Friends of the Los Angeles River
-  link: https://medium.com/2030magazine/bringing-river-conservation-to-the-center-64835ea1d29a
-  date: September 2020
-  quote: “Whether it be a weed growing through the concrete or a bat surviving under the freeway, these are really effective champions to make sure that everyone has a local tie-in to these environmental challenges that we’re facing and not just picture an emaciated polar bear or something that’s 15,000 miles away,” said Michael Atkins.
-- outlet: LA Times
-  headline: A deadly fungus is killing millions of bats in the U.S. Now it’s in California
-  link: https://www.latimes.com/local/california/la-me-white-nose-fungus-kills-california-bats-20190705-story.html
-  date: July 2019
-  quote: But the discovery of the fungus has suddenly added a sense of foreboding to summer evening “Bats and Brews on the River” strolls along a stretch of the Los Angeles River north of downtown. The public events sponsored by the nonprofit Friends of the Los Angeles River aim to introduce participants to the rhythms of bat life in the vicinity of their own backyards. “Our goal is to excite and inspire people about the remarkable creatures that share the air space over our urban ecosystem every night,” said Michael Atkins, a spokesman for FoLAR. “The sadness would be to have to say 10 years from now, bats used to be everywhere.”
-- outlet: LA Times
-  headline: Fishing the L.A. River is more than a quarantine hobby. For some, it’s therapy
-  link: https://www.latimes.com/california/story/2020-08-04/la-river-fishing-safe-respite-covid-19
-  date: August 2020
-  quote: Not a single person interviewed said they would eat a fish out of the river, except Michael Atkins, communications and impact manager with the nonprofit Friends of the L.A. River. “I’m interested to try it, under the right circumstance, but I don’t think anyone would officially advise it,” Atkins said. Most people queried said they catch-and-release or offer the fish to those who live in nearby homeless encampments.
-- outlet: LA Times
-  headline: Legacy projects take shape honoring Lewis MacAdams, poet and crusader for transforming Los Angeles River
-  link: https://www.latimes.com/local/california/la-me-macadams-lariver-legacy-20171006-htmlstory.html
-  date: October 2017
-  quote: Michael Atkins, a spokesman for Friends of the Los Angeles River, likes to say the monument is “concrete staring down concrete, and I’d put my money on Lewis’ stony face outlasting that conveyor belt for urban runoff.”
+items:
+  - outlet: WHYY
+    headline: There are hundreds of bats in FDR Park, living in a complex society that’s vital to park health
+    link: https://billypenn.com/2023/10/28/bat-walk-philadelphia-fdr-park-michael-atkins/
+    date: October 2023
+    quote: Michael Atkins thinks he was a bat in a past life. In fact, he said, human beings have more in common with nature’s only flying mammals than they realize. Atkins—nonprofit communications director by day, bat enthusiast by night—believes learning about the mysterious nightflyers opens Philadelphians up to better understanding their urban ecosystem, and themselves. He led a free bat walk in FDR Park on Saturday, Oct. 28.
+  - outlet: 2030 Magazine
+    headline: Pandemic Profile of Friends of the Los Angeles River
+    link: https://medium.com/2030magazine/bringing-river-conservation-to-the-center-64835ea1d29a
+    date: September 2020
+    quote: “Whether it be a weed growing through the concrete or a bat surviving under the freeway, these are really effective champions to make sure that everyone has a local tie-in to these environmental challenges that we’re facing and not just picture an emaciated polar bear or something that’s 15,000 miles away,” said Michael Atkins.
+  - outlet: LA Times
+    headline: A deadly fungus is killing millions of bats in the U.S. Now it’s in California
+    link: https://www.latimes.com/local/california/la-me-white-nose-fungus-kills-california-bats-20190705-story.html
+    date: July 2019
+    quote: But the discovery of the fungus has suddenly added a sense of foreboding to summer evening “Bats and Brews on the River” strolls along a stretch of the Los Angeles River north of downtown. The public events sponsored by the nonprofit Friends of the Los Angeles River aim to introduce participants to the rhythms of bat life in the vicinity of their own backyards. “Our goal is to excite and inspire people about the remarkable creatures that share the air space over our urban ecosystem every night,” said Michael Atkins, a spokesman for FoLAR. “The sadness would be to have to say 10 years from now, bats used to be everywhere.”
+  - outlet: LA Times
+    headline: Fishing the L.A. River is more than a quarantine hobby. For some, it’s therapy
+    link: https://www.latimes.com/california/story/2020-08-04/la-river-fishing-safe-respite-covid-19
+    date: August 2020
+    quote: Not a single person interviewed said they would eat a fish out of the river, except Michael Atkins, communications and impact manager with the nonprofit Friends of the L.A. River. “I’m interested to try it, under the right circumstance, but I don’t think anyone would officially advise it,” Atkins said. Most people queried said they catch-and-release or offer the fish to those who live in nearby homeless encampments.
+  - outlet: LA Times
+    headline: Legacy projects take shape honoring Lewis MacAdams, poet and crusader for transforming Los Angeles River
+    link: https://www.latimes.com/local/california/la-me-macadams-lariver-legacy-20171006-htmlstory.html
+    date: October 2017
+    quote: Michael Atkins, a spokesman for Friends of the Los Angeles River, likes to say the monument is “concrete staring down concrete, and I’d put my money on Lewis’ stony face outlasting that conveyor belt for urban runoff.”

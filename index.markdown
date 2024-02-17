@@ -8,10 +8,8 @@ image: /assets/images/michael_and_lucy.jpg
 
 <section id="main-image"><img src="{{ page.image | relative_url }}" /></section>
 
-<section id="intro">
-{% capture intro %}{% include intro.markdown %}{% endcapture %}{{ intro | markdownify }}
+<section id="intro">{{ site.data.homepage.intro | markdownify }}
 </section>
 
-<section id="more-bio">
-{% capture bio %}{% include bio.markdown %}{% endcapture %}{{ bio | markdownify }}
+<section id="more-bio">{{ site.data.homepage.bio | markdownify }}
 </section>

@@ -17,3 +17,51 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'config'
+    label: 'Config'
+    editor:
+      preview: false
+    files:
+    - label: Homepage image
+      name: homepage-image
+      file: index.markdown
+      fields:
+        - label: Image
+          name: image
+          widget: image
+    - label: Homepage text
+      name: homepage-text
+      file: _data/homepage.yml
+      fields:
+        - label: Intro
+          name: intro
+          widget: markdown
+        - label: Bio
+          name: bio
+          widget: markdown
+    - label: 'Media entries'
+      name: 'media'
+      file: '_data/media.yml'
+      fields:
+        - label: 'Media items'
+          name: 'items'
+          widget: 'list'
+          fields:
+            - { label: Title, name: title, widget: string }
+            - { label: Link, name: link, widget: string }
+            - { label: Context, name: context, widget: string}
+            - { label: Duration, name: duration, widget: string}
+            - { label: Description, name: description, widget: string}
+    - label: 'Press entries'
+      name: 'press'
+      file: '_data/press.yml'
+      fields:
+        - label: 'Press items'
+          name: 'items'
+          widget: 'list'
+          fields:
+            - { label: Headline, name: headline, widget: string}
+            - { label: Outlet, name: outlet, widget: string }
+            - { label: Link, name: link, widget: string }
+            - { label: Date, name: date, widget: string}
+            - { label: Quote, name: quote, widget: markdown}
