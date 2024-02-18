@@ -31,11 +31,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - media.markdown
-  - writing.markdown
-  - press.markdown
-  - services.markdown
+collections:
+  pages:
+    output: true
+    permalink: /:title
 
 defaults:
 -
@@ -45,6 +44,12 @@ defaults:
   values:
     layout: post
     permalink: /blog/:year/:month/:day/:title/
+-
+  scope:
+    path: "/_pages/*"
+    type: "pages"
+  values:
+    layout: page
 
 # Exclude from processing.
 # The following items will not be processed, by default.
