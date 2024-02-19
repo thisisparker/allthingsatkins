@@ -23,7 +23,7 @@ email: michael@allthingsatkins.com
 description: >- # this means to ignore newlines until "baseurl:"
   Michael Atkins is a communicator strategist and multimedia producer with a passion for storytelling, civic engagement, and all things offbeat.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thisisparker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://allthingsatkins.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: misteratkins
 
 # Build settings
