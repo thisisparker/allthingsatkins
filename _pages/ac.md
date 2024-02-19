@@ -4,7 +4,7 @@ title: "Atlantic City Attractions "
 ---
 ![](/assets/uploads/ac_skyline.jpeg)
 
-## Breakfast / Coffee
+### Breakfast / Coffee
 
 Hot Bagels & More ($), 212 Pacific Ave, Atlantic City, NJ
 
@@ -34,7 +34,7 @@ Celebrated stacked sub since 1946 with informal counter service (also has a hot 
 
 ## Dinner
 
-Angelo’s Fairmount Tavern ($$-$$$), 2300 Fairmount Ave, Atlantic City, NJ
+Angelo’s Fairmount Tavern ($$tall), 2300 Fairmount Ave, Atlantic City, NJ
 
 Old-school Italian restaurant since 1935, this is your middle of the road classic restaurant with generous servings – great for dinner with a date, business associates, or family. Located in the Ducktown section of AC, easy access to Convention Center, AC Expressway, and mid-beach casinos. Entrees run $17-28, with other more expensive options, for the so inclined. 
 
