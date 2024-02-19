@@ -1,12 +1,8 @@
 ---
 layout: page
-title: ac
+title: "Atlantic City Attractions "
 ---
-
-
 ![](/assets/uploads/ac_skyline.jpeg)
-
-
 
 ## Breakfast / Coffee
 
@@ -59,8 +55,6 @@ Alfredo’s Pizza King ($), 2316 Atlantic Ave, Atlantic City, NJ
 Don’t let the name fool you – this is a taco joint. In a wonderful display of AC’s multicultural feel, the Latinx chefs who still make standard pizza shop faire, also boast some of the best tacos in the area; steak highly recommended, and top notch salsa verde. Open late night until 3am. 
 
 Honorable Mentions: Dock’s Oyster House ($$$), Knife and Fork ($$$), Hell’s Kitchen ($$$), Setaara ($$$), Yardy’s Real Jamaican Food ($$), Chart House Seafood ($$$), Chef Vola’s ($$$)
-
-
 
 ![](/assets/uploads/trump-castle-ii-amiga-screenshot-you-can-relax-at-the-poolside.png)
 
