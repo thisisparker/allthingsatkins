@@ -16,6 +16,7 @@ bio: |
   Prior to relocating to New Jersey in 2021, I served for four years as the Communications Director for Friends of the Los Angeles River, which organizes the largest urban river cleanup in the nation, and advocates for equitable access and a rewilded river in the heart of Los Angeles. 
 
   I live in Atlantic City, NJ where my hobbies include bat detecting, bar hopping, and betting on the Birds. Contact me at <michael@allthingsatkins.com>.
+list_title: Recent posts
 ---
 
 <section id="main-image"><img src="{{ page.image | relative_url }}" /></section>
