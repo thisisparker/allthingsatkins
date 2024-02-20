@@ -8,7 +8,7 @@ title: MobyDick
 
 ## Part I:
 
-## 1-Loomings through 32-Cetology
+## 1:Loomings through 32:Cetology
 
 *As we are now fairly embarked in this business of whaling; and as this business of whaling has somehow come to be regarded among lay readers as a rather purplish poetical and daunting pursuit; therefore, I am all anxiety to convince ye, ye fellow shipmates, of the misunderstanding hereby done to us readers of "The Whale"....*
 
