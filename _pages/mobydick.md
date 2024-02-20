@@ -6,7 +6,9 @@ title: MobyDick
 
 ![](/assets/uploads/pequod_voyage_map.jpg)
 
-## Part I: 1-Loomings through 32-Cetology
+## Part I: 
+
+## 1-Loomings through 32-Cetology
 
 *As we are now fairly embarked in this business of whaling; and as this business of whaling has somehow come to be regarded among lay readers as a rather purplish poetical and daunting pursuit; therefore, I am all anxiety to convince ye, ye fellow shipmates, of the misunderstanding hereby done to us readers of "The Whale"....*
 
@@ -112,7 +114,9 @@ Old age is always wakeful; as if, the longer linked with life, the less man has 
 
 ![]()
 
-## Part II: 33-The Speksynder through 70-The Sphynx
+## Part II: 
+
+## 33-The Speksynder through 70-The Sphynx
 
 *When you finish Chapter Seventy, you are halfway through our journey. Are you a survivor, or will you jump ship? Chop wood. Carry water. Guard the watch. Paddle swiftly. Cook well the whale steak. Avoid slippery surfaces. Try and sleep soundly between the rapping of sharktails on the hull… and watch out for the wrath of superiors...* 
 
@@ -246,7 +250,9 @@ It was a black and hooded head; and hanging there in the midst of so intense a c
 
 \[image]
 
-## Part III: Ch 71: The Jerobaum's Story - 99: The Doubloon
+## Part III: 
+
+## Ch 71: The Jerobaum's Story - 99: The Doubloon
 
 *We have sailed many thousands of miles and encountered our share of mysteries! No sign of the White Leviathan. The captain has equally so been scarce for twenty-nine chapters. Laplandish speculations are bandied aboard in regularity. Who among us is possessed? Hath ye glimpsed God’s foot upon the treadle of the loom, uncoiling His grand authorship? Findest thyself, dear reader, a Fast-Fish or a Loose-Fish? No way out but through....* 
 
