@@ -6,21 +6,21 @@ title: Moby Dick; or, The Whale
 
 ![](/assets/uploads/moby-belly.jpeg)
 
-## Part I:
+## Part I
 
-## 1:Loomings through 32:Cetology
+## 1: Loomings  through  32: Cetology
 
 *As we are now fairly embarked in this business of whaling; and as this business of whaling has somehow come to be regarded among lay readers as a rather purplish poetical and daunting pursuit; therefore, I am all anxiety to convince ye, ye fellow shipmates, of the misunderstanding hereby done to us readers of "The Whale"....*
 
-### PROMPTS TO CONSIDER AND DISCUSS:
+### PROMPTS TO CONSIDER AND DISCUSS
 
 (Questions below adapted from ReadMoby.com)
 
-How do you describe Ishmael's tone of voice in the first chapter? Does he sound confident, worried, fearful, boastful? What seems to be his philosophy of life as he travels to New Bedford to ship out?
+How do you describe Ishmael's tone of voice in the **first chapter?** Does he sound confident, worried, fearful, boastful? What seems to be his philosophy of life as he travels to New Bedford to ship out?
 
 What does Herman (Ishmael) Melville \[H.I.M.] say about the differences between landsmen and seamen? How does this relate to story structure?
 
-Taking special note of the chapters 8-9 The Pulpit and The Sermon. What is the message in Brother Maple's sermon?
+Taking special note of the **chapters 8-9 The Pulpit and The Sermon**. What is the message in Brother Maple's sermon?
 
 What is H.I.M's attitude toward religion and spirituality? Is there a distinction between them? What conclusion(s) has he drawn about the ideals of the Noble Savage and Christianity? What about Queequeg's faith and spiritual beliefs? What about the Quakers (Peleg and Bildad)?
 
@@ -38,11 +38,11 @@ While we hear from Peleg, Bildad, Elijah, and others about Ahab, his reveal is l
 
 ***BONUS***: Do you have any favorite passages or chapters to share? 
 
-**BONUS**: For readers who have completed The Quarter-Deck, Hark!, The Chart, and First Lowering ... What do we know about the Pequod and her crew as we sight our first leviathan?
+**BONUS**: For readers who have completed **The Quarter-Deck, Hark!, The Chart, and First Lowering** ... What do we know about the Pequod and her crew as we sight our first leviathan?
 
 ![orson welles as father mapple at the puplit in new bedford](/assets/uploads/mobydickwelles.jpg "orson welles as father mapple at the pulpit ")
 
-### QUOTES OF NOTE:
+### QUOTES OF NOTE
 
 #### Chapter 1 The Loomings
 
@@ -112,7 +112,7 @@ Old age is always wakeful; as if, the longer linked with life, the less man has 
 
 ...But I have swam through libraries and sailed through oceans...
 
-## Part II:
+## Part II
 
 ## 33-The Speksynder through 70-The Sphynx
 
@@ -120,7 +120,7 @@ Old age is always wakeful; as if, the longer linked with life, the less man has 
 
 ![](/assets/uploads/capturing-a-sperm-whale.jpeg)
 
-## PROMPTS TO CONSIDER AND DISCUSS:
+## PROMPTS TO CONSIDER AND DISCUSS
 
 **Chapters 33-40** assume a dramatic structure and deepen our understanding of the Pequod’s crew and structure by revealing chorus characters (and song). What do we learn about the ship, her crew, and their opinions of Ahab’s mission? This string of chapters concludes with an “I, Ishmael…”.  How do varying structures enhance the book by serving plot, theme, and symbolism? 
 
@@ -148,7 +148,7 @@ Ahab’s soliloquy in **Ch 70: The Sphynx** encapsulates the spiritual majesty a
 
 **BONUS: Ch 78: Cistern and Buckets** we witness Tashtego’s death/rebirth and some quintessential Queequeg Chadness. 
 
-## QUOTES OF NOTE:
+## QUOTES OF NOTE
 
 ### Chapter 33: The Speksynder
 
@@ -247,7 +247,6 @@ Oh, man! admire and model thyself after the whale! Do thou, too, remain warm amo
 ### Chapter 70: The Sphynx
 
 It was a black and hooded head; and hanging there in the midst of so intense a calm, it seemed the Sphynx’s in the desert. “Speak, thou vast and venerable head,” muttered Ahab, “which, though ungarnished with a beard, yet here and there lookest hoary with mosses; speak, mighty head, and tell us the secret thing that is in thee. Of all divers, thou hast dived the deepest. That head upon which the upper sun now gleams, has moved amid this world’s foundations. Where unrecorded names and navies rust, and untold hopes and anchors rot; where in her murderous hold this frigate earth is ballasted with bones of millions of the drowned; there, in that awful water-land, there was thy most familiar home. Thou hast been where bell or diver never went; hast slept by many a sailor’s side, where sleepless mothers would give their lives to lay them down. Thou saw’st the locked lovers when leaping from their flaming ship; heart to heart they sank beneath the exulting wave; true to each other, when heaven seemed false to them. Thou saw’st the murdered mate when tossed by pirates from the midnight deck; for hours he fell into the deeper midnight of the insatiate maw; and his murderers still sailed on unharmed—while swift lightnings shivered the neighboring ship that would have borne a righteous husband to outstretched, longing arms. O head! thou hast seen enough to split the planets and make an infidel of Abraham, and not one syllable is thine!”
-
 
 ## Part III:
 
