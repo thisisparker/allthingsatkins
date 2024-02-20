@@ -2,7 +2,7 @@
 layout: page
 title: MobyDick
 ---
-"Shipmates, have ye shipped in that ship yet?" In 2021 I signed up for my 777th lay on the Pequod with a pandemic book club as we awaited our initial vaccines and dreamt of the watery world. These are the resulting discussion questions and agendas. 
+"Shipmates, have ye shipped in that ship yet?" In 2021 I signed up for my 777th lay on the Pequod with a pandemic book club as we awaited our initial vaccines and dreamt of the watery world. These are the resulting discussion questions and agendas in Four Parts. Good for a pace of 4 days or 4 years!
 
 ![](/assets/uploads/pequod_voyage_map.jpg)
 
