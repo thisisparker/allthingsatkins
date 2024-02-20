@@ -8,7 +8,7 @@ title: MobyDick
 
 ## Part I: 1-Loomings through 32-Cetology 
 
-As we are now fairly embarked in this business of whaling; and as this business of whaling has somehow come to be regarded among lay readers as a rather purplish poetical and daunting pursuit; therefore, I am all anxiety to convince ye, ye fellow shipmates, of the misunderstanding hereby done to us readers of "The Whale"....
+*As we are now fairly embarked in this business of whaling; and as this business of whaling has somehow come to be regarded among lay readers as a rather purplish poetical and daunting pursuit; therefore, I am all anxiety to convince ye, ye fellow shipmates, of the misunderstanding hereby done to us readers of "The Whale"....*
 
 ### PROMPTS TO CONSIDER AND DISCUSS:
 
@@ -106,7 +106,13 @@ Old age is always wakeful; as if, the longer linked with life, the less man has 
 
 ...But I have swam through libraries and sailed through oceans...
 
-asdfasd
+xxxx
+
+Part II: 33-xx through 70-zz
+
+*When you finish Chapter Seventy, you are halfway through our journey. Are you a survivor, or will you jump ship? Chop wood. Carry water. Guard the watch. Paddle swiftly. Cook well the whale steak. Avoid slippery surfaces. Try and sleep soundly between the rapping of sharktails on the hull… and watch out for the wrath of superiors...* 
+
+
 
 ![](/assets/uploads/9672377652_b78b4cd875_c.jpg)
 
