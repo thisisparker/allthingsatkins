@@ -16,9 +16,8 @@ list_title: ''
           {{ post.title | escape }}
         </a>
       </h3>
-      {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
-      {%- endif -%}
+      {{ post.content }}
+      <hr />
     </li>
     {%- endfor -%}
   </ul>

@@ -39,8 +39,12 @@ $brand-color: $michael-blue;
 //  border-right: thick double $michael-blue;
 //}
 
-.site-title, h1 {
+.site-title, h1, h2, h3 {
   font-family: 'metro';
+}
+
+h1 a, h2 a, h3 a {
+  text-decoration: none;
 }
 
 #main-image {
