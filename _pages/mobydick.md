@@ -379,3 +379,7 @@ STARBUCK: “No fairy fingers can have pressed the gold, but devil’s claws mus
 STUBB: And all from looking at a piece of gold, which did I have it now on Negro Hill or in Corlaer’s Hook, I’d not look at it very long ere spending it. 
 
 PIP: “And I, you, and he; and we, ye, and they, are all bats; and I’m a crow, especially when I stand a’top of this pine tree here. Caw! caw! caw! caw! caw! caw! Ain’t I a crow? And where’s the scare-crow? There he stands; two bones stuck into a pair of old trowsers, and two more poked into the sleeves of an old jacket.”
+
+## Part IV: 
+
+## \[to be concluded....]
