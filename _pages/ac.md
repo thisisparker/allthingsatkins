@@ -92,6 +92,6 @@ Best wings in AC, this unassuming sports bar is on the south end of town, situat
 
 Many, many others, some fun ones include: 
 
-Little Water Distillery, Tennessee Ave Beer Hall, Proud Mary’s, Ventura’s Greenhouse, Robert’s Place. 
+Tony's Baltimore, Proud Mary's, Margaritaville, Little Water Distillery, Tennessee Ave Beer Hall, Ventura’s Greenhouse, Robert’s Place. 
 
 Check the listings at **Anchor Rock Club** for musical performances.
