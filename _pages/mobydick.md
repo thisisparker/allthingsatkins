@@ -2,7 +2,7 @@
 layout: page
 title: Moby Dick; or, The Whale
 ---
-"Shipmates, have ye shipped in that ship yet?" In 2021 I signed up for my 777th lay on the Pequod with a pandemic book club as we awaited our initial vaccines and dreamt of the watery world. These are the resulting discussion questions and agendas in Four Parts. Good for a pace of 4 days or 4 years!
+"Shipmates, have ye shipped in that ship yet?" In 2021 I signed up for my 777th lay on the Pequod with a pandemic book club as we awaited our initial vaccines and dreamt of the watery world. These are the resulting discussion questions and agendas in Four Parts. Good for a pace of four weeks or four years!
 
 ![](/assets/uploads/moby-belly.jpeg)
 
@@ -32,11 +32,9 @@ Note Melville's purpose of **Chapter 24: The Advocate**. Whaling is an important
 
 **The chapters 26-29** in this section review the command levels on board the ship. What do we know about the Pequod's mates and harpooners? What of Starbuck? Stubb and Flask are, perhaps, one-dimensional while still symbolizing belief systems; what are their attitudes towards work, life, and fate? 
 
-While we hear from Peleg, Bildad, Elijah, and others about Ahab, his reveal is long coming. What do we know about Ahab's personality and character, and what do we learn about his inner conflict(s) in Chapter 30: The Pipe? 
+While we hear from Peleg, Bildad, Elijah, and others about Ahab, his reveal is long coming. What do we know about Ahab's personality and character, and what do we learn about his inner conflict(s) in **Chapter 30: The Pipe?** 
 
 **Chapter 32:** **Cetology** is a famous stumbling block for readers. What does this work of literary naturalism (naturalist literature?) add to the novel and reader's experience? What remains difficult to grasp in this chapter?
-
-***BONUS***: Do you have any favorite passages or chapters to share? 
 
 **BONUS**: For readers who have completed **The Quarter-Deck, Hark!, The Chart, and First Lowering** ... What do we know about the Pequod and her crew as we sight our first leviathan?
 
@@ -114,7 +112,7 @@ Old age is always wakeful; as if, the longer linked with life, the less man has 
 
 ## Part II
 
-## 33-The Speksynder through 70-The Sphynx
+## 33: The Speksynder through 70: The Sphynx
 
 *When you finish Chapter Seventy, you are halfway through our journey. Are you a survivor, or will you jump ship? Chop wood. Carry water. Guard the watch. Paddle swiftly. Cook well the whale steak. Avoid slippery surfaces. Try and sleep soundly between the rapping of sharktails on the hull… and watch out for the wrath of superiors...* 
 
@@ -128,7 +126,7 @@ Old age is always wakeful; as if, the longer linked with life, the less man has 
 
 **Ch 41: Moby-Dick** is an essay within the book, encapsulating its themes and serving as a keystone for it’s structure.  
 
-Take note of Ishmael's observation of concrete objects or sightings and his elevation of them. He will increasingly elevate concrete scenes and events. For instance, Ch 51: The Spirit-Spout, describes a real sighting that is associated with Moby Dick, then associates it with the mysteriousness of Life. In Ch 58: Brit, he realistically describes a peaceful scene of Right Whales scooping up Brit, then elevates that scene to the "full awfulness of the sea."
+Take note of Ishmael's observation of concrete objects or sightings and his elevation of them. He will increasingly elevate concrete scenes and events. For instance, **Ch 51: The Spirit-Spout**, describes a real sighting that is associated with Moby Dick, then associates it with the mysteriousness of Life. In **Ch 58: Brit**, he realistically describes a peaceful scene of Right Whales scooping up Brit, then elevates that scene to the "full awfulness of the sea."
 
 Remember, Ishmael is a Romantic, a symbolist. He is no longer a landsman, who concentrates only on the "real." Reality for a Romantic is but a mask or symbol of what lies beyond. For example, the surface of the sea itself is a "reality"; what lies hidden beneath is "truth." Reality is paradoxical.
 
@@ -250,7 +248,7 @@ It was a black and hooded head; and hanging there in the midst of so intense a c
 
 ## Part III
 
-## Ch 71: The Jerobaum's Story - 99: The Doubloon
+## Ch 71: The Jerobaum's Story through 99: The Doubloon
 
 *We have sailed many thousands of miles and encountered our share of mysteries! No sign of the White Leviathan. The captain has equally so been scarce for twenty-nine chapters. Laplandish speculations are bandied aboard in regularity. Who among us is possessed? Hath ye glimpsed God’s foot upon the treadle of the loom, uncoiling His grand authorship? Findest thyself, dear reader, a Fast-Fish or a Loose-Fish? No way out but through....* 
 
