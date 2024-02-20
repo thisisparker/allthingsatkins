@@ -130,7 +130,7 @@ Remember, Ishmael is a Romantic, a symbolist. He is no longer a landsman, who co
 
 **Ch 55: Of the Monstrous Pictures of Whales** is richly referential, in the 19th-century literary tradition; here is a great resource blog containing all images referenced. "The great leviathan is that one creature in the world which must remain unpainted to the last." The best way to see a whale, he concludes, is to go whaling. (Perhaps also the only way to observe “Brit” or “Squid”. How do these other species factor into our tail, er, tale?)
 
-![](/assets/uploads/monstrous-picture-of-whale.png)
+![monstrous picture of whale ](/assets/uploads/monstrous-picture-of-whale.png "monstrous picture of whale")
 
 **Consider Ch 66: Shark Massacre.** This short chapter describes the killing of sharks in high detail. But take note of the last paragraph. It gives insight into Queequeq's philosophy. What is it?
 
