@@ -78,18 +78,8 @@ collections:
           name: 'items'
           widget: 'list'
           fields:
-            - { label: Headline, name: headline, widget: string}
+            - { label: Headline, name: headline, widget: string }
             - { label: Outlet, name: outlet, widget: string }
             - { label: Link, name: link, widget: string }
             - { label: Date, name: date, widget: string }
             - { label: Quote, name: quote, widget: markdown}
-    - label: 'Services entries'
-      name: 'services'
-      file: '_data/services.yml'
-      fields:
-        - label: 'Services items'
-          name: 'items'
-          widget: 'list'
-          fields:
-            - { label: Title, name: title, widget: string}
-            - { label: Description, name: description, widget: markdown }
