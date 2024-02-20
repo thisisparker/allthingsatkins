@@ -36,6 +36,8 @@ While we hear from Peleg, Bildad, Elijah, and others about Ahab, his reveal is l
 
 **BONUS**: For readers who have completed The Quarter-Deck, Hark!, The Chart, and First Lowering ... What do we know about the Pequod and her crew as we sight our first leviathan?
 
+![](/assets/uploads/mobydickwelles.jpg)
+
 ### QUOTES OF NOTE:
 
 #### Chapter 1 The Loomings
