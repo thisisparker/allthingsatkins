@@ -248,7 +248,7 @@ Oh, man! admire and model thyself after the whale! Do thou, too, remain warm amo
 
 It was a black and hooded head; and hanging there in the midst of so intense a calm, it seemed the Sphynx’s in the desert. “Speak, thou vast and venerable head,” muttered Ahab, “which, though ungarnished with a beard, yet here and there lookest hoary with mosses; speak, mighty head, and tell us the secret thing that is in thee. Of all divers, thou hast dived the deepest. That head upon which the upper sun now gleams, has moved amid this world’s foundations. Where unrecorded names and navies rust, and untold hopes and anchors rot; where in her murderous hold this frigate earth is ballasted with bones of millions of the drowned; there, in that awful water-land, there was thy most familiar home. Thou hast been where bell or diver never went; hast slept by many a sailor’s side, where sleepless mothers would give their lives to lay them down. Thou saw’st the locked lovers when leaping from their flaming ship; heart to heart they sank beneath the exulting wave; true to each other, when heaven seemed false to them. Thou saw’st the murdered mate when tossed by pirates from the midnight deck; for hours he fell into the deeper midnight of the insatiate maw; and his murderers still sailed on unharmed—while swift lightnings shivered the neighboring ship that would have borne a righteous husband to outstretched, longing arms. O head! thou hast seen enough to split the planets and make an infidel of Abraham, and not one syllable is thine!”
 
-## Part III:
+## Part III
 
 ## Ch 71: The Jerobaum's Story - 99: The Doubloon
 
@@ -376,7 +376,7 @@ STUBB: And all from looking at a piece of gold, which did I have it now on Negro
 
 PIP: “And I, you, and he; and we, ye, and they, are all bats; and I’m a crow, especially when I stand a’top of this pine tree here. Caw! caw! caw! caw! caw! caw! Ain’t I a crow? And where’s the scare-crow? There he stands; two bones stuck into a pair of old trowsers, and two more poked into the sleeves of an old jacket.”
 
-## Part IV:
+## Part IV
 
 ## \[to be concluded....]
 
