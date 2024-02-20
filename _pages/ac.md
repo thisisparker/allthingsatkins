@@ -14,41 +14,45 @@ Shore chain of fresh bagels and affordable breakfast. Excellent bagels, breakfas
 
 New third wave coffee shop in the Orange Loop. Definitely a hip spot for people who need espresso in AC before heading to a convention. Small shop, unassuming, and great for the early birds who fancy a nice coffee and boardwalk or beach stroll. They also just introduced some light lunch faire, which scratches an itch 
 
-Remedee Coffee ($), 118 S Bartram Ave, Atlantic City, NJ
+### Remedee Coffee ($), 118 S Bartram Ave, Atlantic City, NJ
 
 Summer time and irregular offseason option, this sister duo is doin’ it to it! Remedee runs out of a garage on Bartram weekend mornings where a number of iced and hot beverages are on offer, plus freshly roasted beans. Worth supporting this new business and getting friendly with the proprietors. 
 
-Gilchrist Restaurant (multiple locations)
+### Gilchrist Restaurant (multiple locations)
 
-Breakfast and lunch staple serving pancakes, egg platters, and sandwiches. A favorite among locals, especially for early lunch or late breakfast parties. Location in Gardner’s Basin is in the nicest neighborhood in town. 
+Breakfast and lunch staple serving pancakes, egg platters, and sandwiches. A favorite among locals, especially for early lunch or late breakfast parties. Location in Gardner’s Basin offers a charming bayside view in the "good hood", the Tropicana location reminds me oddly of Mel's Drive-In diners in Los Angeles. 
 
 ## Lunch
 
-Barbera’s Seafood ($), 2243 Arctic Ave, Atlantic City, NJ
+### Barbera’s Seafood ($), 2243 Arctic Ave, Atlantic City, NJ
 
 Inexpensive and high quality fish sandwiches (order two if you have an appetite!), along with fresh fish, and a small market featuring canned fish and other spices for your fish boil. Established in 1919, this unassuming spot boasts AC memorabilia from AC through its century of operation. Counter service, with sparing seats inside. Their motto: “The seafood you eat today slept last night in the Chesapeake Bay.” Very close to the AC Convention Center / train station. 
 
-White House Subs ($$), 2301 Arctic Ave, Atlantic City, NJ
+### White House Subs ($$), 2301 Arctic Ave, Atlantic City, NJ
 
 Celebrated stacked sub since 1946 with informal counter service (also has a hot grill, not just cold subs). This is a common stop for folks on their way out of town to grab a dry hoagie (oil & vinegar on the side), and bring home to feed yourself and probably others. 
 
 ## Dinner
 
-Angelo’s Fairmount Tavern ($$tall), 2300 Fairmount Ave, Atlantic City, NJ
+### Knife & Fork ($$$) & Dock's Oyster House ($$$)
 
-Old-school Italian restaurant since 1935, this is your middle of the road classic restaurant with generous servings – great for dinner with a date, business associates, or family. Located in the Ducktown section of AC, easy access to Convention Center, AC Expressway, and mid-beach casinos. Entrees run $17-28, with other more expensive options, for the so inclined. 
+Two of the city's classiest fine dining experiences in operation since 1912 and 1897 respectively, now owned by the same family. The K&F is surprisingly welcoming and neighborly, and the bartenders are both are truly the best in the city, willing to whip up a Paper Plane or an original concoction featuring Cynar upon your friend's request. Food is excellent as well; where Dock's features sea creatures, Knife & Fork has fantastic lamb and potatoes au gratin.  
 
-Kelsey’s and/or Kelsey and Kim’s ($$), multiple locations
-
-Operated by a local husband and wife team, these restaurants have restored a long and storied tradition of soul food and Black culture in Atlantic City. Kelsey and Kim’s location is on the north side of town and open nightly, Kelsey’s on Kentucky Ave has reopened in what was once a vibrant Black section of town known to host the best performers over various eras of music and entertainment. Classic and classy soul food – fried chicken, waffles, collared greens, BBQ pork and beef. 
-
-Tony’s Baltimore Bar and Grill ($-$$), 2800 Atlantic Ave, Atlantic City, NJ
+### Tony’s Baltimore Bar and Grill ($-$$), 2800 Atlantic Ave, Atlantic City, NJ
 
 Trendy, late-night, Italian comfort food in an old-school restaurant established in 1927 that still has jukeboxes in their bar booths (they don’t function, but the functional jukebox frequently pipes out old-school soul and doo-wop). Servers are all incredibly colorful, and the bar is a central node for locals who live in and love AC. A favorite of Anthony Bourdain’s, he visited and claimed: “Tony’s Baltimore Grill is a taste of my childhood.” Be sure to get the meatball, also for the adventurous the Clams Casino pizza is a specialty not found elsewhere. Kitchen closes at 3am. 
 
-Pho Sydney ($), 2323 Atlantic Ave, Atlantic City, NJ
+### Angelo’s Fairmount Tavern ($$), 2300 Fairmount Ave, Atlantic City, NJ
 
-High quality, inexpensive Vietnamese food in an unadorned restaurant in the heart of AC. Pho and spring rolls are highly recommended, food comes out hot and quick. Within blocks of Caesar’s. 
+Old-school Italian restaurant since 1935, this is your middle of the road classic restaurant with generous servings – great for dinner with a date, business associates, or family. Located in the Ducktown section of AC, easy access to Convention Center, AC Expressway, and mid-beach casinos. Entrees run $17-28, with other more expensive options, for the so inclined. 
+
+### Kelsey’s and/or Kelsey and Kim’s ($$), multiple locations
+
+Operated by a local husband and wife team, these restaurants have restored a long and storied tradition of soul food and Black culture in Atlantic City. Kelsey and Kim’s location is on the north side of town and open nightly, Kelsey’s on Kentucky Ave has reopened in what was once a vibrant Black section of town known to host the best performers over various eras of music and entertainment. Classic and classy soul food – fried chicken, waffles, collared greens, BBQ pork and beef. 
+
+### Pho Sydney ($), 2323 Atlantic Ave, Atlantic City, NJ
+
+High quality, inexpensive, authentic Vietnamese food in an unadorned restaurant in the heart of AC. Pho and spring rolls are highly recommended, food comes out hot and quick. If you're lucky you can catch the second half of and NFL playoff game and keep time with the crew. Within blocks of Caesar’s. 
 
 Alfredo’s Pizza King ($), 2316 Atlantic Ave, Atlantic City, NJ
 
