@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Another blog post, this time with Decap
+tag:
+  - parker
+  - decap post
+  - test message
 date: 2024-02-16T02:27:18.308Z
 ---
 As they say, with CMSes, third time's the charm.

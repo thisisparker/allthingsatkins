@@ -30,6 +30,18 @@ twitter_username: misteratkins
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - tags
+  layouts: archive
+  permalinks:
+    year: '/blog/:year/'
+    month: '/blog/:year/:month/'
+    tag: '/blog/tag/:name/'
 
 collections:
   pages:
@@ -46,7 +58,7 @@ defaults:
     permalink: /blog/:year/:month/:day/:title/
 -
   scope:
-    path: "/_pages/*"
+    path: "_pages"
     type: "pages"
   values:
     layout: page
