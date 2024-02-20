@@ -4,6 +4,6 @@ title: Blackjack
 ---
 Hit me! 
 
-![](/assets/uploads/blackjack-chart.jpeg)
+![](/assets/uploads/blackjack-chart-example.jpeg)
 
 ![]()
