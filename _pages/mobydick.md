@@ -242,7 +242,7 @@ It was a black and hooded head; and hanging there in the midst of so intense a c
 
 \[image]
 
-## Part III: Ch 87-XX:YY
+## Part III: Ch 71: The Jerobaum's Story - 99: The Doubloon
 
 *We have sailed many thousands of miles and encountered our share of mysteries! No sign of the White Leviathan. The captain has equally so been scarce for twenty-nine chapters. Laplandish speculations are bandied aboard in regularity. Who among us is possessed? Hath ye glimpsed God’s foot upon the treadle of the loom, uncoiling His grand authorship? Findest thyself, dear reader, a Fast-Fish or a Loose-Fish? No way out but through....* 
 
