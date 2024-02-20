@@ -4,13 +4,13 @@ title: "Atlantic City Attractions "
 ---
 ![](/assets/uploads/ac_skyline.jpeg)
 
-### Breakfast / Coffee
+## Breakfast & Coffee
 
-Hot Bagels & More ($), 212 Pacific Ave, Atlantic City, NJ
+### Hot Bagels & More ($), 212 Pacific Ave, Atlantic City, NJ
 
 Shore chain of fresh bagels and affordable breakfast. Excellent bagels, breakfast sandwiches, wraps and more. AC location is in the shadow of the Absecon Lighthouse on the north end of the island, which is a great morning stroll in nice weather. 
 
-Hayday Coffee ($), 155 S New York Ave, Atlantic City, NJ
+#### Hayday Coffee ($), 155 S New York Ave, Atlantic City, NJ
 
 New third wave coffee shop in the Orange Loop. Definitely a hip spot for people who need espresso in AC before heading to a convention. Small shop, unassuming, and great for the early birds who fancy a nice coffee and boardwalk or beach stroll. They also just introduced some light lunch faire, which scratches an itch 
 
