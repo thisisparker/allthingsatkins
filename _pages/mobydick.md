@@ -314,7 +314,7 @@ Five great motions are peculiar to it. First, when used as a fin for progression
 
 Real strength never impairs beauty or harmony, but it often bestows it; and in everything imposingly beautiful, strength had much to do with the magic. 
 
-Chapter 87: The Grand Armada 
+### Chapter 87: The Grand Armada 
 
 ...withhold any amazement at the strangely galled whales before us, for there is no folly of the beasts of the earth which is not infinitely outdone by the madness of men. 
 
@@ -322,7 +322,7 @@ As when the stricken whale, that from the tub has reeled out hundreds of fathoms
 
 ...amid the tornadoed Atlantic of my being, do I myself still for ever centrally disport in mute calm; and while ponderous planets of unwaning woe revolve round me, deep down and deep inland there I still bathe me in eternal mildness of joy. 
 
-Chapter 89: Fast-Fish and Loose-Fish 
+### Chapter 89: Fast-Fish and Loose-Fish 
 
 I. A Fast-Fish belongs to the party fast to it.
 
@@ -336,13 +336,13 @@ What is the ruinous discount which Mordecai, the broker, gets from poor Woebegon
 
 ... And what are you, reader, but a Loose-Fish and a Fast-Fish, too? 
 
-Chapter 91: The Pequod Meets The Virgin
+### Chapter 91: The Pequod Meets The Virgin
 
 “I have it, I have it,” cried Stubb, with delight, striking something in the subterranean regions, “a purse! a purse!”
 
 Dropping his spade, he thrust both hands in, and drew out handfuls of something that looked like ripe Windsor soap, or rich mottled old cheese; very unctuous and savory withal. You might easily dent it with your thumb; it is of a hue between yellow and ash colour. And this, good friends, is ambergris, worth a gold guinea an ounce to any druggist. Some six handfuls were obtained; but more was unavoidably lost in the sea, and still more, perhaps, might have been secured were it not for impatient Ahab’s loud command to Stubb to desist, and come on board, else the ship would bid them good bye.
 
-Chapter 93: The Castaway 
+### Chapter 93: The Castaway 
 
 The sea had jeeringly kept his finite body up, but drowned the infinite of his soul. Not drowned entirely, though. Rather carried down alive to wondrous depths, where strange shapes of the unwarped primal world glided to and fro before his passive eyes; and the miser-merman, Wisdom, revealed his hoarded heaps; and among the joyous, heartless, ever-juvenile eternities, Pip saw the multitudinous, God-omnipresent, coral insects, that out of the firmament of waters heaved the colossal orbs. He saw God’s foot upon the treadle of the loom, and spoke it; and therefore his shipmates called him mad. So man’s insanity is heaven’s sense; and wandering from all mortal reason, man comes at last to that celestial thought, which, to reason, is absurd and frantic; and weal or woe, feels then uncompromised, indifferent as his God.
 
