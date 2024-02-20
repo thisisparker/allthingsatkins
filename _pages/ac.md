@@ -12,7 +12,7 @@ Shore chain of fresh bagels and affordable breakfast. Excellent bagels, breakfas
 
 #### Hayday Coffee ($), 155 S New York Ave, Atlantic City, NJ
 
-New third wave coffee shop in the Orange Loop. Definitely a hip spot for people who need espresso in AC before heading to a convention. Small shop, unassuming, and great for the early birds who fancy a nice coffee and boardwalk or beach stroll. They also just introduced some light lunch faire, which scratches an itch 
+Third wave coffee shop in the Orange Loop. Hip spot for people who need espresso in AC, great before heading to a convention. Small shop, unassuming, and great for the early birds who fancy a nice coffee and boardwalk or beach stroll. They also introduced some light lunch faire, which scratches an itch when caffeinated. 
 
 ### Remedee Coffee ($), 118 S Bartram Ave, Atlantic City, NJ
 
@@ -26,11 +26,11 @@ Breakfast and lunch staple serving pancakes, egg platters, and sandwiches. A fav
 
 ### Barbera’s Seafood ($), 2243 Arctic Ave, Atlantic City, NJ
 
-Inexpensive and high quality fish sandwiches (order two if you have an appetite!), along with fresh fish, and a small market featuring canned fish and other spices for your fish boil. Established in 1919, this unassuming spot boasts AC memorabilia from AC through its century of operation. Counter service, with sparing seats inside. Their motto: “The seafood you eat today slept last night in the Chesapeake Bay.” Very close to the AC Convention Center / train station. 
+Inexpensive and high quality fish sandwiches (order two if you have an appetite!), along with fresh fish, and a small market featuring canned fish and other spices for your fish boil. Established in 1919, this unassuming spot boasts AC memorabilia from AC through its century of operation. Counter service, with sparing seats inside. Their motto: “The seafood you eat today slept last night in the Chesapeake Bay.” Very close to the AC Convention Center / train station and outlets. 
 
 ### White House Subs ($$), 2301 Arctic Ave, Atlantic City, NJ
 
-Celebrated stacked sub since 1946 with informal counter service (also has a hot grill, not just cold subs). This is a common stop for folks on their way out of town to grab a dry hoagie (oil & vinegar on the side), and bring home to feed yourself and probably others. 
+Celebrated stacked sub since 1946 with informal counter service (also has a hot grill, not just cold subs, fan of their cheesesteaks). This is a common stop for folks on their way out of town to grab a dry hoagie (oil & vinegar on the side), and bring home to feed yourself and others. Very close to the AC Convention Center / train station and outlets. 
 
 ## Dinner
 
