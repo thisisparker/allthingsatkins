@@ -54,48 +54,44 @@ Operated by a local husband and wife team, these restaurants have restored a lon
 
 High quality, inexpensive, authentic Vietnamese food in an unadorned restaurant in the heart of AC. Pho and spring rolls are highly recommended, food comes out hot and quick. If you're lucky you can catch the second half of and NFL playoff game and keep time with the crew. Within blocks of Caesar’s. 
 
-Alfredo’s Pizza King ($), 2316 Atlantic Ave, Atlantic City, NJ
+Honorable Mentions: Hell’s Kitchen, but not the Wellington ($$$), Setaara, although they require a deposit on reservations ($$$), Yardy’s Real Jamaican Food ($$), Chart House Seafood ($$$), Chef Vola’s ($$$)
 
-Don’t let the name fool you – this is a taco joint. In a wonderful display of AC’s multicultural feel, the Latinx chefs who still make standard pizza shop faire, also boast some of the best tacos in the area; steak highly recommended, and top notch salsa verde. Open late night until 3am. 
-
-Honorable Mentions: Dock’s Oyster House ($$$), Knife and Fork ($$$), Hell’s Kitchen ($$$), Setaara ($$$), Yardy’s Real Jamaican Food ($$), Chart House Seafood ($$$), Chef Vola’s ($$$)
-
-![](/assets/uploads/trump-castle-ii-amiga-screenshot-you-can-relax-at-the-poolside.png)
+![]()
 
 # ATTRACTIONS
 
-Absecon Lighthouse ($), 31 S Rhode Island Ave, Atlantic City, NJ
+### Absecon Lighthouse ($), 31 S Rhode Island Ave, Atlantic City, NJ
 
 State’s tallest lighthouse, open for climbing 228 steps, with views of the ocean (duh) and city to the south. Staff is exceedingly friendly and knowledgeable about AC history. Nice gift shop as well to support the history museum. 
 
-Noyes Art Garage (Free, paid parking), 2300 Fairmount Ave, Atlantic City, NJ
+### Noyes Art Garage (Free, paid parking), 2300 Fairmount Ave, Atlantic City, NJ
 
-An extension of the Noyes Art Museum (Hammonton) into Stockton University’s sphere, this gallery is a collection of exhibition booths and rooms that rotate frequently, while still presenting mostly local artists. Don’t miss the African American Heritage Museum of South Jersey, which is full of Black AC History. Currently exhibiting a show on the inequity of climate resilience. 
+An extension of the Noyes Art Museum (Hammonton) into Stockton University’s sphere, this gallery is a collection of exhibition booths and rooms that rotate frequently, while still presenting mostly local artists. Don’t miss the African American Heritage Museum of South Jersey, which is full of Black AC History. 
 
-Lucy the Elephant (Free), 9200 Atlantic Ave, Margate City, NJ
+### Lucy the Elephant (Free), 9200 Atlantic Ave, Margate City, NJ
 
 America’s oldest “roadside” attraction, built in 1881, is this recently restored six-story elephant on the beach! Totally kooky, Lucy has been drawing visitors since before the mass adoption of the automobile via train. Lucy’s multi-million dollar restoration was just completed, with a public unveiling in December 2022. (Ventura’s Greenhouse is across the street for affordable food and drinks.) 
 
-Edwin B. Forsythe Wildlife Refuge ($4/vehicle), 800 Great Creek Rd Oceanville, NJ
+### Edwin B. Forsythe Wildlife Refuge ($4/vehicle), 800 Great Creek Rd Oceanville, NJ
 
 A world-class wildlife refuge with magical views of NJ’s unique wetlands and the AC skyline. Forsythe is a must for naturalists, featuring walking paths and platforms, as well as an 8-mile car loop that takes 30-60 minutes to drive (contingent on how frequently you stop for birds). Depending on the season, one can find massive populations of migratory ducks or gulls, while ospreys, bald eagles, and herons can be found year-round. 
 
-Ventnor Fishing Pier (free), S. Cambridge & the Boardwalk, Ventnor City, NJ
+### Ventnor Fishing Pier (free), S. Cambridge & the Boardwalk, Ventnor City, NJ
 
 Walk out on the water at the only public fishing pier on the island. This spot attracts a great mix of fisherman of all types, and other locals getting their steps in. Great spot for the photographers among us. 
 
 ## BARS & PUBS
 
-Irish Pub and Inn ($-$$), 164 St. James Place, Atlantic City, NJ
+### Irish Pub and Inn ($-$$), 164 St. James Place, Atlantic City, NJ
 
-Century old institution in Atlantic City that served as the exterior building model for the red hotel pieces in Monopoly. The Irish Pub is a truly unique experience and place, featuring classic memorabilia, quality Guinness pours, and a gift shop that will send you time traveling. Open 24/7, with a kitchen that has sparse but quality options (corned beef sandwich, and top notch fish and chips) open until 3am. \*Cash Only\*
+What can I say about the Irish Pub?! Century old institution in Atlantic City that served as the exterior building model for the red hotel pieces in Monopoly. The Pub is a truly unique experience and place, featuring classic memorabilia, quality Guinness pours, and a gift shop that will send you time traveling. Open 24/7, with a kitchen that has sparse but quality options (corned beef sandwich, and top notch fish and chips) open until 3am. **\*Cash Only\***
 
-Wonder Bar ($-$$), 3701 Sunset Ave, Atlantic City, NJ
+### Wonder Bar ($-$$), 3701 Sunset Ave, Atlantic City, NJ
 
 Best wings in AC, this unassuming sports bar is on the south end of town, situated right on the inlet with waterfront views. Good spot to hang out during a sporting event, but also fine for some wings to dine-in or take home. 
 
 Many, many others, some fun ones include: 
 
-Little Water Distillery, Tennessee Ave Beer Hall, Proud Mary’s, Ducktown Tavern, Ventura’s Greenhouse, Robert’s Place, Bourre. 
+Little Water Distillery, Tennessee Ave Beer Hall, Proud Mary’s, Ventura’s Greenhouse, Robert’s Place. 
 
-Check the listings at Anchor Rock Club for musical performances.
+Check the listings at **Anchor Rock Club** for musical performances.
