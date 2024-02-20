@@ -106,6 +106,8 @@ Old age is always wakeful; as if, the longer linked with life, the less man has 
 
 ...But I have swam through libraries and sailed through oceans...
 
+![](/assets/uploads/mobydick_sperm_whale.jpeg)
+
 ![]()
 
 ## Part II: 33-The Speksynder through 70-The Sphynx
