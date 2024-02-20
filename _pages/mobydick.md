@@ -26,6 +26,8 @@ What is H.I.M's attitude toward religion and spirituality? Is there a distinctio
 
 Does H.I.M. seem to believe in Free Will, Fate, or a combination of the two, such as Machiavelli supports in the closing chapter of The Prince?
 
+![](/assets/uploads/herman-melville-stamp-tinified-p-500.jpeg)
+
 Note Melville's purpose of **Chapter 24: The Advocate**. Whaling is an important undertaking, of great significance, but little general recognition. Notice his obvious passion for the subject. What modern industries have similar parallels to 19th century whaling?
 
 **The chapters 26-29** in this section review the command levels on board the ship. What do we know about the Pequod's mates and harpooners? What of Starbuck? Stubb and Flask are, perhaps, one-dimensional while still symbolizing belief systems; what are their attitudes towards work, life, and fate? 
@@ -110,9 +112,6 @@ Old age is always wakeful; as if, the longer linked with life, the less man has 
 
 ...But I have swam through libraries and sailed through oceans...
 
-![](/assets/uploads/mobydick_sperm_whale.jpeg)
-
-![]()
 
 ## Part II: 
 
