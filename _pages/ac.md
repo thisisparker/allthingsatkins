@@ -8,7 +8,7 @@ title: "Atlantic City Attractions "
 
 ### Hot Bagels & More ($), 212 Pacific Ave, Atlantic City, NJ
 
-Shore chain of fresh bagels and affordable breakfast. Excellent bagels, breakfast sandwiches, wraps and more. AC location is in the shadow of the Absecon Lighthouse on the north end of the island, which is a great morning stroll in nice weather. 
+Shore chain of fresh bagels and affordable breakfast. Excellent bagels, breakfast sandwiches, wraps and more. AC location is in the shadow of the Absecon Lighthouse on the north end of the island, which is a great morning stroll in nice weather. Two additional locations on the island, both in Margate, one nicknamed "Ventnor". 
 
 #### Hayday Coffee ($), 155 S New York Ave, Atlantic City, NJ
 
