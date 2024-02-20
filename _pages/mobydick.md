@@ -280,9 +280,7 @@ H.I.M. dabbles in the letters of law and philosophy in C**h 89: Fast-Fish and Lo
 
 BONUS Symbolism check-in…at this point what doesn’t the whale represent?
 
-xxx
-
-\[image]
+![](/assets/uploads/the-gam.png)
 
 QUOTES OF NOTE:
 
