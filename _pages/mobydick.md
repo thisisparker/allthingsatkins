@@ -240,6 +240,138 @@ Oh, man! admire and model thyself after the whale! Do thou, too, remain warm amo
 
 It was a black and hooded head; and hanging there in the midst of so intense a calm, it seemed the Sphynx’s in the desert. “Speak, thou vast and venerable head,” muttered Ahab, “which, though ungarnished with a beard, yet here and there lookest hoary with mosses; speak, mighty head, and tell us the secret thing that is in thee. Of all divers, thou hast dived the deepest. That head upon which the upper sun now gleams, has moved amid this world’s foundations. Where unrecorded names and navies rust, and untold hopes and anchors rot; where in her murderous hold this frigate earth is ballasted with bones of millions of the drowned; there, in that awful water-land, there was thy most familiar home. Thou hast been where bell or diver never went; hast slept by many a sailor’s side, where sleepless mothers would give their lives to lay them down. Thou saw’st the locked lovers when leaping from their flaming ship; heart to heart they sank beneath the exulting wave; true to each other, when heaven seemed false to them. Thou saw’st the murdered mate when tossed by pirates from the midnight deck; for hours he fell into the deeper midnight of the insatiate maw; and his murderers still sailed on unharmed—while swift lightnings shivered the neighboring ship that would have borne a righteous husband to outstretched, longing arms. O head! thou hast seen enough to split the planets and make an infidel of Abraham, and not one syllable is thine!”
 
-![](/assets/uploads/9672377652_b78b4cd875_c.jpg)
+\[image]
 
-asdfasd
+## Part III: Ch 87-XX:YY
+
+*We have sailed many thousands of miles and encountered our share of mysteries! No sign of the White Leviathan. The captain has equally so been scarce for twenty-nine chapters. Laplandish speculations are bandied aboard in regularity. Who among us is possessed? Hath ye glimpsed God’s foot upon the treadle of the loom, uncoiling His grand authorship? Findest thyself, dear reader, a Fast-Fish or a Loose-Fish? No way out but through....* 
+
+PROMPTS TO CONSIDER AND DISCUSS:
+
+
+
+The Gam reviews gams. **Ch 71: The Jeroboam’s Story** (Gabriel and the plague-riddled Nantucketers), **Ch 81: The Pequod Meets The Virgin** (Derick and the Germans), and **Ch 91: The Pequod Meets The Rose-Bud** (Stubb the confidence man tricks the Crappoes). How is Gabriel’s angelic mission contrasted from Ahab? Who is madder? What do we learn about whales and Stubb in his pursuit of ambergris? “Oh! many are the Fin-Backs, and many are the Dericks, my friend.” 
+
+Stubb and Flask, following Ahab’s queer instruction to hunt a Right Whale, steer their boats back to the Pequod free of surveillance from Ahab and share a few private words regarding the Phantom crew in Ch 73: Stubb and Flask…, who does Stubb think Fedallah is? How convinced is Third Mate Flask? What do you make of Stubb’s attitude toward Fedallah? (PS what is Melville really saying about Locke and Kant?)
+
+Our noble Chad Queequeg once again takes center stage in **Ch 72: The Monkey-Rope and Ch 78: Cistern and Buckets.** Has H.I.M. and Queequeg’s bond grown aboard the ship? “Joint-stock” isn’t very romantic. Melville never breaks the golden rule of horror: use it or lose it. Tashtego experiences a rebirth with heroic Queequeg as his dutiful midwife. 
+
+Stubb emerges as the embodiment of caustic capitalistic greed - we see a great deal of Stubb since First Lowering (and scarcer mention of Starbuck!). Stubb abuses the Cook during his Supper. He discards Aunt Charity’s ginger-jub for grog. He gleefully chases off The Virgin and mocks the crippled whale that is to be their (temporary) prey. In lustful greed he tricks the Rose-Bud into casting off a blasted whale to mine ambergris. After cutting the line once for Poor tangled Pip (“a whale would sell for thirty times what you would, Pip, in Alabama”), he thereafter leaves him alone in the wide open ocean for hours. How do Stubb’s schemes differ from Ahab’s and Starbuck’s? (What can we say of Flask through this section?)
+
+“Some of the subtlest secrets of the seas seemed divulged to us in this enchanted pond” depicted in Ch 87: The Grand Armada, where structure and style collide. While we may find ourselves “fast fished” to the gory drudgery of dismembering whales, we are also embarked upon a magical cosmological journey observing sperm whale spawning grounds, giant squid breach the surface, and acres of luminescent brit through all the houses of the Zodiac (**Ch 99: The Doubloon**). What secrets of the seas have ye observed in thyself, dear reader?
+
+H.I.M. dabbles in the letters of law and philosophy in C**h 89: Fast-Fish and Loose-Fish.** Are you sufficiently dispossessed of your landlubbing to abide by the watery rule of law? What is H.I.M. really saying about mid-19th century racism and colonialism through characters aboard the Pequod and historically referenced? What does it mean that this weird bleak novel is an American classic? 
+
+**Ch 96: The Try-Works** is the hellish heart of the Pequod, burning bible leaves of blubber in the iron pots affixed to the sturdiest part of the main deck. “Then the rushing Pequod, freighted with savages, and laden with fire, and burning a corpse, and plunging into that blackness of darkness, seemed the material counterpart of her monomaniac commander’s soul.” H.I.M. hallucinates and almost capsizes the boat. Are we having fun yet?
+
+**BONUS Ch 90: Heads or Tails** has a wonderful Bartleby parallel: “It is his.” 
+
+**BONUS Ch 94: A Squeeze of the Hand**. Um, are we sure this book is about whales?
+
+**BONUS Ch 99: The Dubloon**. Recalling Borges “The Zahir” (“Perhaps I will succeed in wearing away the Zahir by thinking and re-thinking about it; perhaps behind the coin is God.”), we gain insights into Ahab, Starbuck, Stubb and Pip as they mull the mast’s obol. What do they think of the celestial bodies, vice districts, heaven and hell? 
+
+BONUS Symbolism check-in…at this point what doesn’t the whale represent?
+
+xxx
+
+\[image]
+
+QUOTES OF NOTE:
+
+Chapter 72: The Monkey-Rope 
+
+...I seemed distinctly to perceive that my own individuality was now merged in a joint stock company of two: that my free will had received a mortal wound; and that another's mistake or misfortune might plunge innocent me into unmerited disaster and death. 
+
+Chapter 73: Stubb and Flask Kill a Right Whale; and Then Have a Talk Over Him 
+
+“How old do you suppose Fedallah is, Stubb?”
+
+“Do you see that mainmast there?” pointing to the ship; “well, that’s the figure one; now take all the hoops in the Pequod’s hold, and string along in a row with that mast, for oughts, do you see; well, that wouldn’t begin to be Fedallah’s age. Nor all the coopers in creation couldn’t show hoops enough to make oughts enough.”
+
+So, when on one side you hoist in Locke's head, you go over that way; but now, on the other side, hoist in Kant's and you come back again; but in very poor plight. Thus, some minds for ever keep trimming boat. Oh, ye foolish! throw all these thunderheads overboard, and then you will float light and right. 
+
+Chapter 74: The Sperm Whale's Head--Contrasted View 
+
+The whale, therefore, must see one distinct picture on this side, and another distinct picture on that side; while all between must be profound darkness and nothingness to him. Is it not curious, that so vast a being as the whale should see the world through so small an eye, and hear the thunder through an ear which is smaller than a hare's? But if his eyes were broad as the lens of Herschel's great telescope; and his ears capacious as the porches of cathedrals; would that make him any longer of sight, or sharper of hearing? Not at all.--Why then do you try to "enlarge" your mind? Subtilize it. 
+
+Chapter 79: The Prairie 
+
+I try all things; I achieve what I can. 
+
+Chapter 80: The Nut 
+
+The whale, like all things that are mighty, wears a false brow to the common world. For I believe that much of a man's character will be found betokened in his backbone. I would rather feel your spine than your skull, whoever you are. A thin joist of a spine never yet upheld a full and noble soul. 
+
+Chapter 81: The Pequod Meets The Virgin 
+
+But pity there was none. For all his old age, and his one arm, and his blind eyes, he must die the death and be murdered, in order to light the gay bridals and other merry-makings of men, and also to illuminate the solemn churches that preach unconditional inoffensiveness by all to all. Still rolling in his blood, at last he partially disclosed a strangely discoloured bunch or protuberance, the size of a bushel, low down on the flank.
+
+Chapter 85: The Fountain 
+
+Doubts of all things earthly, and intuitions of some things heavenly; this combination makes neither believer nor infidel, but makes a man who regards them both with equal eye. 
+
+Chapter 86: The Tail 
+
+Five great motions are peculiar to it. First, when used as a fin for progression; Second, when used as a mace in battle; Third, in sweeping; Fourth, in lobtailing; Fifth, in peaking flukes.
+
+Real strength never impairs beauty or harmony, but it often bestows it; and in everything imposingly beautiful, strength had much to do with the magic. 
+
+Chapter 87: The Grand Armada 
+
+...withhold any amazement at the strangely galled whales before us, for there is no folly of the beasts of the earth which is not infinitely outdone by the madness of men. 
+
+As when the stricken whale, that from the tub has reeled out hundreds of fathoms of rope; as, after deep sounding, he floats up again, and shows the slackened curling line buoyantly rising and spiralling towards the air; so now, Starbuck saw long coils of the umbilical cord of Madame Leviathan, by which the young cub seemed still tethered to its dam. Not seldom in the rapid vicissitudes of the chase, this natural line, with the maternal end loose, becomes entangled with the hempen one, so that the cub is thereby trapped. Some of the subtlest secrets of the seas seemed divulged to us in this enchanted pond. We saw young Leviathan amours in the deep.
+
+...amid the tornadoed Atlantic of my being, do I myself still for ever centrally disport in mute calm; and while ponderous planets of unwaning woe revolve round me, deep down and deep inland there I still bathe me in eternal mildness of joy. 
+
+Chapter 89: Fast-Fish and Loose-Fish 
+
+I. A Fast-Fish belongs to the party fast to it.
+
+II. A Loose-Fish is fair game for anybody who can soonest catch it.
+
+What are the sinews and souls of Russian serfs and Republican slaves but Fast-Fish, whereof possession is the whole of the law?...... 
+
+What is the ruinous discount which Mordecai, the broker, gets from poor Woebegone, the bankrupt, on a loan to keep Woebegone’s family from starvation; what is that ruinous discount but a Fast-Fish? What is the Archbishop of Savesoul’s income of £100,000 seized from the scant bread and cheese of hundreds of thousands of broken-backed laborers (all sure of heaven without any of Savesoul’s help) what is that globular £100,000 but a Fast-Fish? What are the Duke of Dunder’s hereditary towns and hamlets but Fast-Fish? What to that redoubted harpooneer, John Bull, is poor Ireland, but a Fast-Fish? What to that apostolic lancer, Brother Jonathan, is Texas but a Fast-Fish? And concerning all these, is not Possession the whole of the law?
+
+... What was America in 1492 but a Loose-Fish...? What are the Rights of Man and the Liberties of the World but Loose-Fish? What all men's minds and opinions but Loose-Fish?
+
+... And what are you, reader, but a Loose-Fish and a Fast-Fish, too? 
+
+Chapter 91: The Pequod Meets The Virgin
+
+“I have it, I have it,” cried Stubb, with delight, striking something in the subterranean regions, “a purse! a purse!”
+
+Dropping his spade, he thrust both hands in, and drew out handfuls of something that looked like ripe Windsor soap, or rich mottled old cheese; very unctuous and savory withal. You might easily dent it with your thumb; it is of a hue between yellow and ash colour. And this, good friends, is ambergris, worth a gold guinea an ounce to any druggist. Some six handfuls were obtained; but more was unavoidably lost in the sea, and still more, perhaps, might have been secured were it not for impatient Ahab’s loud command to Stubb to desist, and come on board, else the ship would bid them good bye.
+
+Chapter 93: The Castaway 
+
+The sea had jeeringly kept his finite body up, but drowned the infinite of his soul. Not drowned entirely, though. Rather carried down alive to wondrous depths, where strange shapes of the unwarped primal world glided to and fro before his passive eyes; and the miser-merman, Wisdom, revealed his hoarded heaps; and among the joyous, heartless, ever-juvenile eternities, Pip saw the multitudinous, God-omnipresent, coral insects, that out of the firmament of waters heaved the colossal orbs. He saw God’s foot upon the treadle of the loom, and spoke it; and therefore his shipmates called him mad. So man’s insanity is heaven’s sense; and wandering from all mortal reason, man comes at last to that celestial thought, which, to reason, is absurd and frantic; and weal or woe, feels then uncompromised, indifferent as his God.
+
+![](/assets/uploads/trying-out.jpeg)
+
+
+
+
+
+### Chapter 96: The Try-Works 
+
+As they narrated to each other their unholy adventures, their tales of terror told in words of mirth; as their uncivilized laughter forked upwards out of them, like the flames from the furnace; as to and fro, in their front, the harpooneers wildly gesticulated with their huge pronged forks and dippers; as the wind howled on, and the sea leaped, and the ship groaned and dived, and yet steadfastly shot her red hell further and further into the blackness of the sea and the night, and scornfully champed the white bone in her mouth, and viciously spat round her on all sides; then the rushing Pequod, freighted with savages, and laden with fire, and burning a corpse, and plunging into that blackness of darkness, seemed the material counterpart of her monomaniac commander’s soul.
+
+Convulsively my hands grasped the tiller, but with the crazy conceit that the tiller was, somehow, in some enchanted way, inverted. My God! what is the matter with me? thought I. Lo! in my brief sleep I had turned myself about, and was fronting the ship’s stern, with my back to her prow and the compass. In an instant I faced back, just in time to prevent the vessel from flying up into the wind, and very probably capsizing her. How glad and how grateful the relief from this unnatural hallucination of the night, and the fatal contingency of being brought by the lee!
+
+Look not too long in the face of the fire, O man! Never dream with thy hand on the helm! 
+
+There is a wisdom that is woe; but there is a woe that is madness. And there is a Catskill eagle in some souls that can alike dive down into the blackest gorges, and soar out of them again and become invisible in the sunny spaces. And even if he for ever flies within the gorge, that gorge is in the mountains; so that even in his lowest swoop the mountain eagle is still higher than other birds upon the plain, even though they soar. 
+
+### Chapter 99: The Doubloon 
+
+And some certain significance lurks in all things, else all things are little worth... 
+
+AHAB: “There’s something ever egotistical in mountain-tops and towers, and all other grand and lofty things; look here,—three peaks as proud as Lucifer. The firm tower, that is Ahab; the volcano, that is Ahab; the courageous, the undaunted, and victorious fowl, that, too, is Ahab; all are Ahab;.... Born in throes, 't is fit that man should live in pains and die in pangs! So be it, then! Here's stout stuff for we to work on. So be it, then.
+
+STARBUCK: “No fairy fingers can have pressed the gold, but devil’s claws must have left their mouldings there since yesterday,” murmured Starbuck to himself, leaning against the bulwarks. “The old man seems to read Belshazzar’s awful writing. I have never marked the coin inspectingly. He goes below; let me read. A dark valley between three mighty, heaven-abiding peaks, that almost seem the Trinity, in some faint earthly symbol.
+
+STUBB: And all from looking at a piece of gold, which did I have it now on Negro Hill or in Corlaer’s Hook, I’d not look at it very long ere spending it. 
+
+PIP: “And I, you, and he; and we, ye, and they, are all bats; and I’m a crow, especially when I stand a’top of this pine tree here. Caw! caw! caw! caw! caw! caw! Ain’t I a crow? And where’s the scare-crow? There he stands; two bones stuck into a pair of old trowsers, and two more poked into the sleeves of an old jacket.”
