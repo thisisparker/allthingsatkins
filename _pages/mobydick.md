@@ -246,9 +246,7 @@ It was a black and hooded head; and hanging there in the midst of so intense a c
 
 *We have sailed many thousands of miles and encountered our share of mysteries! No sign of the White Leviathan. The captain has equally so been scarce for twenty-nine chapters. Laplandish speculations are bandied aboard in regularity. Who among us is possessed? Hath ye glimpsed God’s foot upon the treadle of the loom, uncoiling His grand authorship? Findest thyself, dear reader, a Fast-Fish or a Loose-Fish? No way out but through....* 
 
-PROMPTS TO CONSIDER AND DISCUSS:
-
-
+## PROMPTS TO CONSIDER AND DISCUSS:
 
 The Gam reviews gams. **Ch 71: The Jeroboam’s Story** (Gabriel and the plague-riddled Nantucketers), **Ch 81: The Pequod Meets The Virgin** (Derick and the Germans), and **Ch 91: The Pequod Meets The Rose-Bud** (Stubb the confidence man tricks the Crappoes). How is Gabriel’s angelic mission contrasted from Ahab? Who is madder? What do we learn about whales and Stubb in his pursuit of ambergris? “Oh! many are the Fin-Backs, and many are the Dericks, my friend.” 
 
@@ -278,11 +276,11 @@ xxx
 
 QUOTES OF NOTE:
 
-Chapter 72: The Monkey-Rope 
+### Chapter 72: The Monkey-Rope 
 
 ...I seemed distinctly to perceive that my own individuality was now merged in a joint stock company of two: that my free will had received a mortal wound; and that another's mistake or misfortune might plunge innocent me into unmerited disaster and death. 
 
-Chapter 73: Stubb and Flask Kill a Right Whale; and Then Have a Talk Over Him 
+### Chapter 73: Stubb and Flask Kill a Right Whale; and Then Have a Talk Over Him 
 
 “How old do you suppose Fedallah is, Stubb?”
 
@@ -290,27 +288,27 @@ Chapter 73: Stubb and Flask Kill a Right Whale; and Then Have a Talk Over Him
 
 So, when on one side you hoist in Locke's head, you go over that way; but now, on the other side, hoist in Kant's and you come back again; but in very poor plight. Thus, some minds for ever keep trimming boat. Oh, ye foolish! throw all these thunderheads overboard, and then you will float light and right. 
 
-Chapter 74: The Sperm Whale's Head--Contrasted View 
+### Chapter 74: The Sperm Whale's Head--Contrasted View 
 
 The whale, therefore, must see one distinct picture on this side, and another distinct picture on that side; while all between must be profound darkness and nothingness to him. Is it not curious, that so vast a being as the whale should see the world through so small an eye, and hear the thunder through an ear which is smaller than a hare's? But if his eyes were broad as the lens of Herschel's great telescope; and his ears capacious as the porches of cathedrals; would that make him any longer of sight, or sharper of hearing? Not at all.--Why then do you try to "enlarge" your mind? Subtilize it. 
 
-Chapter 79: The Prairie 
+### Chapter 79: The Prairie 
 
 I try all things; I achieve what I can. 
 
-Chapter 80: The Nut 
+### Chapter 80: The Nut 
 
 The whale, like all things that are mighty, wears a false brow to the common world. For I believe that much of a man's character will be found betokened in his backbone. I would rather feel your spine than your skull, whoever you are. A thin joist of a spine never yet upheld a full and noble soul. 
 
-Chapter 81: The Pequod Meets The Virgin 
+### Chapter 81: The Pequod Meets The Virgin 
 
 But pity there was none. For all his old age, and his one arm, and his blind eyes, he must die the death and be murdered, in order to light the gay bridals and other merry-makings of men, and also to illuminate the solemn churches that preach unconditional inoffensiveness by all to all. Still rolling in his blood, at last he partially disclosed a strangely discoloured bunch or protuberance, the size of a bushel, low down on the flank.
 
-Chapter 85: The Fountain 
+### Chapter 85: The Fountain 
 
 Doubts of all things earthly, and intuitions of some things heavenly; this combination makes neither believer nor infidel, but makes a man who regards them both with equal eye. 
 
-Chapter 86: The Tail 
+### Chapter 86: The Tail 
 
 Five great motions are peculiar to it. First, when used as a fin for progression; Second, when used as a mace in battle; Third, in sweeping; Fourth, in lobtailing; Fifth, in peaking flukes.
 
