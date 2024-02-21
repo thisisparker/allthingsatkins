@@ -61,6 +61,13 @@ h1 a, h2 a, h3 a {
   text-decoration: none;
 }
 
+.post-list h3 {
+  font-family: 'metro';
+  a {
+    color: #111;
+  }
+}
+
 #main-image {
   padding-bottom: 20px;
 }
