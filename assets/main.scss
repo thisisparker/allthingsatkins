@@ -43,6 +43,16 @@ $brand-color: $michael-blue;
   font-family: 'metro';
 }
 
+.post-title {
+  text-decoration: underline overline;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.post-content p:has(img) {
+  text-align: center;
+}
+
 h1 a, h2 a, h3 a {
   text-decoration: none;
 }
