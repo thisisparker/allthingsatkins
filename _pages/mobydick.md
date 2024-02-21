@@ -2,7 +2,7 @@
 layout: page
 title: Moby Dick; or, The Whale
 ---
-"Shipmates, have ye shipped in that ship yet?" In 2021 I signed up for my 777th lay on the Pequod with a pandemic book club as we awaited our initial vaccines and dreamt of the watery world. These are the resulting discussion questions and agendas in Four Parts. Good for a pace of four weeks or four years! [Full text of Herman Melville's "Moby-Dick; or, The Whale" is available on Project Gutenberg](https://www.gutenberg.org/cache/epub/2701/pg2701-images.html).
+"Shipmates, have ye shipped in that ship yet?" In 2021 I signed up for my 275th lay on the Pequod with a pandemic book club as we awaited our initial vaccines and dreamt of the watery world. These are the resulting discussion questions and agendas in Four Parts. Good for a pace of four weeks or four years! [Full text of Herman Melville's "*Moby-Dick; or, The Whale*" is available on Project Gutenberg](https://www.gutenberg.org/cache/epub/2701/pg2701-images.html).
 
 ![](/assets/uploads/moby-belly.jpeg)
 
