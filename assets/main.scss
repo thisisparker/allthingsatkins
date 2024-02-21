@@ -69,13 +69,13 @@ ul {
   list-style: square;
 }
 
-a {
+a, a:visited {
   color: $michael-blue;
   text-decoration: underline;
+}
 
-  &:visted {
-    color: $michael-blue;
-  }
+a:hover {
+  color: #111;
 }
 
 .outlet-name, .video-context {
