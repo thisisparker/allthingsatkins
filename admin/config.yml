@@ -16,6 +16,8 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Tags', name: 'tag', widget: 'list', required: false}
+      - { label: 'Social Image', name: 'image', widget: 'image', required: false}
+      - { label: 'Description', name: 'description', widget: 'text', required: false}
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
@@ -27,6 +29,8 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Social Image', name: 'image', widget: 'image', required: false}
+      - { label: 'Description', name: 'description', widget: 'text', required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'config'
     label: 'Config'
