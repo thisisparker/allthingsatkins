@@ -2,18 +2,17 @@
 layout: page
 title: Writing
 ---
-
 I have dedicated more than a decade to amplifying the intersections of arts, environment, and music. I contributed a series of impactful write-ups for Track 16, a prominent Los Angeles art gallery, where I’m especially proud to have highlighted the work of fabulous artists and share personal thoughts on the city of Los Angeles and its concrete river. Throughout two nonprofit communications directorships roles, I’ve orchestrated cohesive narratives across blogs, emails, promotional materials, and scripts as the architect of expressive content. If you're seeking a wordsmith to breathe life into your narratives with depth and resonance, consider this an invitation to explore the possibilities together. 
 
-[Confluence](https://www.track16.com/confluence)
+## [Confluence](https://www.track16.com/confluence)
 
 If water is life, how long can we survive a drought? When the Colorado River runs dry, how does the American West mitigate an inglorious demise? How do we balance our present built environment against the dynamics of nature? California, and the greater Southwestern United States, is grappling with a water crisis so severe it’s spawning new terminologies to articulate its severity. Despite entering the 22nd year of a megadrought caused by our concrete commitment to impermeable landscape redesign, by and large, business continues as usual. We need not look farther than downtown Los Angeles to observe a river in its afterlife, a foundation for a crisis poured long ago.
 
-["Kathleen Henderson: Bluebeard and Other Poolings"](https://www.track16.com/kathleen-henderson-bluebeard-and-other-poolings)
+## ["Kathleen Henderson: Bluebeard and Other Poolings"](https://www.track16.com/kathleen-henderson-bluebeard-and-other-poolings)
 
 Artist Kathleen Henderson’s new exhibition Bluebeard and Other Poolings peers through the looking glass to explore the inner lives of humanity calculating an impending apocalypse. For twenty years Henderson has fashioned blob-like ghosts and beings to expose narcissism, vanity, and feelings of powerlessness in the face of mounting challenges that threaten society and existence itself. Animated in oil stick on paper, her figures assemble in an array of poses that reveal our inability as a collective to gather behind solutions, instead choosing to cheer on chaos or focus on how photogenic we’ll appear in insurrection selfies.
-    
-["Sandow Birk: Los Angeles and Her Surroundings"](https://www.track16.com/sandow-birk-los-angeles-and-her-surroundings-2022)
+
+## ["Sandow Birk: Los Angeles and Her Surroundings"](https://www.track16.com/sandow-birk-los-angeles-and-her-surroundings-2022)
 
 Birk’s meticulous eye captures the immutable dignity among Angelenos toiling through daily life across its concrete basin, depicting our vernacular totems and spirit guides. The tamale lady. Early morning tagging. A shoe tree grows in a nondescript skate park. Gaudy signs and rampant facsimiles of commercial products adorn our mini-markets. Los Angeles is a laid back land of extreme polarity, and extreme proximity; where else do dilapidated million dollar bungalows squat proudly beneath palms while Skid Row gapes like an open wound under the eaves?
 
@@ -36,4 +35,3 @@ Pedestrian fatalities directly relate to street design that prioritizes automobi
 [Voting Rights Crucial to addressing Climate Emergency](https://folar.org/voting-rights-climate-action/)
 
 While this issue may seem thousands of miles away from the LA River – and it is – this is a great opportunity to raise the importance of Black and Latinx enfranchisement and voting rights in relation to climate change. Climate change – due to systemic racism – disproportionately impacts Black and Latinx communities who are already facing socioeconomic disadvantages. While California has sought to lead the way as “climate leaders”, there is no way we can rise to the challenge of climate change and environmental justice without meaningful and coordinated federal policies and investments. This means ensuring the right to vote in “purple” states like Georgia (and Arizona) with significant Black or Latinx voting populations.
-
