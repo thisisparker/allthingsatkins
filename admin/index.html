@@ -50,7 +50,7 @@
           };
         },
         toBlock: function(data) {
-          return `{% include figure.html url='${data.image || ''}' alt='${data.alt ? data.alt.replace(/'/g, /\\'/) : ''}' title='${data.title ? data.title.replace(/'/g, /\\'/) : ''} ' caption='${data.caption ? data.caption.replace(/'/g, /\\'/) : ''}' %}`
+          return `{% include figure.html url='${data.image || ''}' alt='${data.alt ? data.alt.replace(/'/g, /\\'/) : ''}' title='${data.title ? data.title.replace(/'/g, /\\'/) : ''}' caption='${data.caption ? data.caption.replace(/'/g, /\\'/) : ''}' %}`
         },
         toPreview: function(data) {
           return `<figure class="image"><img src="${data.image}" alt="${data.alt ? data.alt.replace(/"/g, '&quot;') : ''}" title="${data.title ? data.title.replace(/"/g, '&quot;') : ''}" /><figcaption>${data.caption ? data.caption : ''}</figcaption></figure>`;
