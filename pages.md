@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All pages
+title: All Things Atkins A-Z
 ---
 
 {% assign all_pages = site.pages | concat: site.custom_pages | sort_natural: "title" %}
