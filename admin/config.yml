@@ -1,5 +1,4 @@
 # config.yml
-
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
@@ -22,7 +21,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
-    folder: '_pages/'
+    folder: '_custom_pages/'
     create: true
     editor:
       preview: true
@@ -71,21 +70,6 @@ collections:
             - { label: Context, name: context, widget: string, required: false}
             - { label: Duration, name: duration, widget: string, required: false}
             - { label: Description, name: description, widget: markdown }
-    - label: 'Writing'
-      name: 'writing'
-      file: '_data/writing.yml'
-      fields:
-        - label: 'Writing description'
-          name: 'description'
-          widget: 'markdown'
-        - label: 'Writing items'
-          name: 'items'
-          widget: 'list'
-          fields:
-            - { label: Title, name: title, widget: string }
-            - { label: Outlet, name: context, widget: string, required: false}
-            - { label: Link, name: link, widget: string }
-            - { label: Text, name: text, widget: markdown }
     - label: 'Press'
       name: 'press'
       file: '_data/press.yml'

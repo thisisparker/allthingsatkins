@@ -44,7 +44,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
 
 collections:
-  pages:
+  custom_pages:
     output: true
     permalink: /:title
 
@@ -58,7 +58,7 @@ defaults:
     permalink: /blog/:year/:month/:day/:title/
 -
   scope:
-    path: "_pages"
+    path: "_custom_pages"
     type: "pages"
   values:
     layout: page
