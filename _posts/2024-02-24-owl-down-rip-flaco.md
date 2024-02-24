@@ -3,6 +3,8 @@ layout: post
 title: "Owl Down: RIP Flaco"
 tag:
   - superb owl
+  - go birds
+  - nyc
 image: /assets/uploads/1200px_flaco_fire-escape-2.jpg
 description: In the year of Flaco’s fugitive freedom, he became an outlaw icon.
 date: 2024-02-24T22:38:43.137Z
