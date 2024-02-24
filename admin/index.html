@@ -44,13 +44,13 @@
         fromBlock: function(match) {
           return {
               image: match[1],
-              alt: match[2],
-              title: match[3],
+              alt: match[2].replace(/\\'/g, "'"),
+              title: match[3].replace(/\\'/g, "'"),
               caption: match[4].replace(/\\'/g, "'"),
           };
         },
         toBlock: function(data) {
-          return `{% include figure.html url='${data.image || ''}' alt='${data.alt || ''}' title='${title.replace(/'/g, /\\'/)}' caption='${data.caption.replace(/'/g, /\\'/) || ''}' %}`
+          return `{% include figure.html url='${data.image || ''}' alt='${data.alt.replace(/'/g, /\\'/) || ''}' title='${title.replace(/'/g, /\\'/)}' caption='${data.caption.replace(/'/g, /\\'/) || ''}' %}`
         },
         toPreview: function(data) {
           return `<figure class="image"><img src="${data.image}" alt="${data.alt.replace(/"/g, '&quot;') || ''}" title="${data.title.replace(/"/g, '&quot;') || ''}" /><figcaption>${data.caption || ''}</figcaption></figure>`;
