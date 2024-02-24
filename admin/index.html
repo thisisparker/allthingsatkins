@@ -14,5 +14,48 @@
     <script>
       CMS.registerPreviewStyle("/assets/main.css");
     </script>
+    <script>
+      CMS.registerEditorComponent({
+        id: "image-with-caption",
+        label: "Image with caption",
+        fields: [
+          {
+            label: 'Image',
+            name: 'image',
+            widget: 'image',
+            media_library: {
+              allow_multiple: false,
+            },
+          },
+          {
+            label: 'Alt Text',
+            name: 'alt',
+          },
+          {
+            label: 'Title',
+            name: 'title',
+          },
+          {
+            label: 'Caption',
+            name: 'caption',
+          },
+        ],
+        pattern: /^{% include figure.html url='(.*?)' alt='(.*?)' title='(.*?)' caption='(.*?)' %}$/ms,
+        fromBlock: function(match) {
+          return {
+              image: match[1],
+              alt: match[2],
+              title: match[3],
+              caption: match[4].replace(/\\'/g, "'"),
+          };
+        },
+        toBlock: function(data) {
+          return `{% include figure.html url='${data.image || ''}' alt='${data.alt || ''}' title='${title.replace(/'/g, /\\'/)}' caption='${data.caption.replace(/'/g, /\\'/) || ''}' %}`
+        },
+        toPreview: function(data) {
+          return `<figure class="image"><img src="${data.image}" alt="${data.alt.replace(/"/g, '&quot;') || ''}" title="${data.title.replace(/"/g, '&quot;') || ''}" /><figcaption>${data.caption || ''}</figcaption></figure>`;
+        },
+      })
+    </script>
   </body>
 </html>
