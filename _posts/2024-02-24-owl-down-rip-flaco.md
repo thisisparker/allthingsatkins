@@ -39,6 +39,10 @@ The natural range of habitat for Eurasian eagle owls is quite large—stretching
 
 The dark truth is that this beautiful bird was captive to Manhattan Island even free from his enclosure. Despite venturing to Lower Manhattan, Flaco displayed an apparent inability to cross the Hudson River for estuarine destinations as close as Freshkills or the Meadowlands. The most ardent conservationists will proffer “I told you so…” and call for the prosecution of the vandals who set Flaco “free”. But therein lies the messy complexity of the hierarchy of environmentalism. A bird with Flaco’s charisma and daring story served many millions more in twelve months of freedom than in his twelve preceding years of captivity. As we project our desires and imagination onto a bird like Flaco, we must also recognize that human existence itself is a death sentence for most species on a warming Planet Earth. May Flaco in death continue to serve as an ambassador for wildlife, pointing out our human harshness and bellicose relationship with nature. 
 
-### **Rest in Peace Flaco. You died for our sins.**
+### **Rest in Peace Flaco.** 
+
+### **2010 - 2014**
+
+### **You died for our sins.**
 
 {% include figure.html url='/assets/uploads/flaco_construction-.jpeg' alt='' title='   ' caption='Flaco aspired to one day become a union foreman.' %}
