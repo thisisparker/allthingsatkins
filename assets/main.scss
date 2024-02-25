@@ -61,10 +61,17 @@ h1 a, h2 a, h3 a {
   text-decoration: none;
 }
 
-.post-list h3 {
+h3.post-list-title {
   font-family: 'metro';
   a {
     color: #111;
+  }
+}
+
+ul.post-list.horizontal {
+  display: flex;
+  li {
+    flex: 1;
   }
 }
 
@@ -74,6 +81,10 @@ h1 a, h2 a, h3 a {
 
 #intro {
   font-size: 130%;
+}
+
+#more-bio {
+  padding-bottom: 40px;
 }
 
 ul {
@@ -96,9 +107,6 @@ a:hover {
 .clip-date {
   font-variant: small-caps;
   font-size: smaller;
-}
-
-.clip-quote {
 }
 
 .video-duration {
