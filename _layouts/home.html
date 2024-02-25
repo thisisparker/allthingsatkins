@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 1 -%}
-    {%- assign heading = page.list_title | default "Posts" -%}
+    {%- assign heading = page.list_title -%}
     {%- assign posts = site.posts | slice: 0, 2 -%}
     {% include post_list.html heading=heading posts=posts show_description=true horizontal=true %}
     <p class="see-all-posts"><a href="{{ '/blog' | relative_url }}">See all posts</a></p>

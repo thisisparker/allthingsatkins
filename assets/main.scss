@@ -68,10 +68,15 @@ h3.post-list-title {
   }
 }
 
+
 ul.post-list.horizontal {
   display: flex;
-  li {
-    flex: 1;
+  gap: 20px;
+    li {
+      flex: 1;
+    }
+  @include media-query($on-palm) {
+    display: inline;
   }
 }
 
