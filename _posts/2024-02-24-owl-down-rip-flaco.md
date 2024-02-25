@@ -12,7 +12,7 @@ date: 2024-02-24T22:38:43.137Z
 ---
 {% include figure.html url='/assets/uploads/1200px_flaco_fire-escape-2.jpg' alt='' title='   ' caption='In the year of Flaco’s fugitive freedom, he became an outlaw icon. ' %}
 
-At 11:30pm Friday, February 24th, Flaco the famous Eurasian eagle owl was reported dead from a collision with a building on 89th Street in Manhattan. In the year of Flaco’s fugitive freedom, he became an outlaw icon, igniting the imaginations of locals, attracting distant tourists, and garnering press in major outlets the world over. Notably, Flaco’s “Year of Freedom” earned him a [multi page spread in the *New York Times*](https://www.nytimes.com/2024/02/02/nyregion/flaco-owl-central-park-zoo.html) earlier this month, chronicling his offbeat penchant for exploring the city and showcasing a number of remarkable photographs, professional and amateur, of New York’s latest “It Boy”. 
+At 11:30pm Friday, February 24th, Flaco the famous Eurasian eagle owl was reported dead from a collision with a building on 89th Street in Manhattan. In the year of Flaco’s fugitive freedom, he became an outlaw icon, igniting the imaginations of locals, attracting distant tourists, and garnering press in major outlets the world over. Notably, Flaco’s “Year of Freedom” earned him a [multi page spread in the *New York Times*](https://www.nytimes.com/2024/02/02/nyregion/flaco-owl-central-park-zoo.html) earlier this month, chronicling his offbeat penchant for exploring the city and showcasing a number of remarkable photographs, professional and amateur, of New York’s latest “It Girl”. 
 
 {% include figure.html url='/assets/uploads/flaco_park_bench.jpeg' alt='' title='   ' caption='' %}
 
