@@ -15,7 +15,7 @@ At 11:30pm Friday February 24th, Flaco the famous Eurasian eagle owl was reporte
 
 {% include figure.html url='/assets/uploads/flaco_park_bench.jpeg' alt='' title='   ' caption='' %}
 
-Flaco was one of a kind; as an exotic owl, he was a charismatic megafauna, capable of inspiring humans to consider other birds, owls, and wildlife in urbanity. Flaco was an [exceptional entry into this pantheon](https://en.wikipedia.org/wiki/Birding_in_New_York_City#Celebrity_birds)—he attracted advanced bird photographers and novice birders to his haunts around Central Park, but his online celebrity enamored even more spectators to his story, eclipsing other notable New York owl leading ladies, like Geraldine and Barry. Above all, he was a certified New Yorker, whose story of “immigration”, captivity, escape, and adaptation melted littletown blues and satisfied vagabond shoes. 
+Flaco was one of a kind; as an exotic owl, he was a charismatic megafauna, capable of inspiring humans to consider other birds, owls, and wildlife in urbanity. Flaco was an [exceptional entry into this pantheon](https://en.wikipedia.org/wiki/Birding_in_New_York_City#Celebrity_birds)—he attracted advanced bird photographers and novice naturalists to his haunts around Central Park, but his online celebrity enamored even more spectators to his story, eclipsing other notable New York owl leading ladies, like Geraldine and Barry. Above all, he was a certified New Yorker, whose story of “immigration”, captivity, escape, and adaptation melted littletown blues and satisfied vagabond shoes. 
 
 ### **"If I were to leave the confines of everything I’ve ever known, would I be able to adapt, hunt, find shelter, attract a mate, thrive?"**
 
