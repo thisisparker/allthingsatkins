@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 list_title: ''
+noindex: true
 ---
 
 {%- if site.posts.size > 0 -%}
