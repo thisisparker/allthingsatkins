@@ -32,6 +32,9 @@ plugins:
   - jekyll-feed
   - jekyll-archives
 
+include:
+  - _redirects
+
 jekyll-archives:
   enabled:
     - year
