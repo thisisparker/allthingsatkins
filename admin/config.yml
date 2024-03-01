@@ -31,6 +31,16 @@ collections:
       - { label: 'Social Image', name: 'image', widget: 'image', required: false}
       - { label: 'Description', name: 'description', widget: 'text', required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'redirects'
+    label: 'Redirects'
+    label_singular: 'Redirect'
+    folder: '_redirect_files/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Destination', name: 'redirect_to', widget: 'string'}
   - name: 'config'
     label: 'Config'
     editor:
