@@ -10,7 +10,7 @@ tag:
 image: /assets/uploads/alex_cameron_miami_memory_cover.jpg
 description: "Originally published in Dec 2019, album review of Alex Cameron's
   third studio album, Miami Memory. "
-date: 2019-12-12T16:49:00.000Z
+date: 2025-02-04T16:52:00.000Z
 ---
 The weekend Alex Cameron’s “Miami Memory” was released, I began a journey to the LA County Fair — an ultimately delightful evening, but to arrive I snaked through downtown congestion, wound out to suburban congestion, charged thru collision traffic, then crawled from the freeway into a parking lot line, then queued to take a shuttle to a ticket line…while waiting in to relieve myself at the urinal trough, I composed my initial review of MIAMI MEMORY — I love it. I will add that in addition to listening to the album start to finish, I also dabbled in Springsteen and (to a less fulfilling extent) Billy Joel tracks, both of which heavily influence Alex Cameron’s generational refresh and response to their music.
 
