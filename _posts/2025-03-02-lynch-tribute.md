@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lynch tribute
+title: "Perchance to Dream: A Music Video Tribute to David Lynch"
 tag: []
 image: /assets/uploads/entering-twin-peaks.jpg
 description: "Perchance to Dream: A Music Video Tribute to David Lynch is a
