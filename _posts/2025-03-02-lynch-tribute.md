@@ -14,7 +14,7 @@ date: 2025-03-02T14:07:00.000Z
 
 **Medium**: Video, sound collage
 
-**Runtime**: 50 minutes
+**Runtime**: 52 minutes
 
 **Release Date**: February 26, 2025
 
