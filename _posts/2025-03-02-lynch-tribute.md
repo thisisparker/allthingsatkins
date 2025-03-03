@@ -42,7 +42,7 @@ Tracklist: 
 14. Finale of *Blue Velvet* (1986)
 15. “Love Me Tender” End Credits to *Wild at Heart* (1995)
 
-The sonic landscape of *Perchance to Dream* is composed of 15 tracks, carefully selected to mirror David Lynch’s singular approach to music in film. Lifted directly from his television and cinematic works—each a testament to his impeccable ear, his attention to sonic detail, his love for Roy Orbison and Elvis, and his career-long collaborations with Angelo Badalamenti and Kyle MacLachlan.
+The sonic landscape of *Perchance to Dream* is composed of 15 tracks, carefully selected to mirror David Lynch’s singular approach to music in film. Lifted directly from his television and cinematic works—each a testament to his impeccable ear, his attention to sonic detail, his love for Roy Orbison and Elvis, and his significant and lengthy collaborations with Angelo Badalamenti, Laura Dern, Kyle MacLachlan, and Isabella Rossellini. 
 
 Lynch’s use of popular music doesn’t just set a mood—he wields it like a weapon grade magnet, dragging the viewer deeper into scene and emotive surreality. His curatorial choices subvert, distort, and linger, turning "magic moments" into haunting, otherworldly experiences naming "every little star" or claiming derangement in the opening scene with a Bowie/Eno track. The music in *Perchance to Dream* follows the Lynchian ethos, somewhere between nostalgia and nightmare, where we can walk and talk in dreams, all of the time. 
 
