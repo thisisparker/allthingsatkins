@@ -16,6 +16,8 @@
       <hr />
       {% elsif include.show_description -%}
       {{ post.description }}
+      {% elsif include.show_excerpt -%}
+      {{ post.excerpt }}
       {%- endif -%}
     </li>
     {%- endfor -%}
