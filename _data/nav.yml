@@ -7,3 +7,5 @@ items:
     url: /press
   - title: Services
     url: /services
+  - title: Blog
+    url: /blog
