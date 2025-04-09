@@ -15,7 +15,12 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Function to convert YouTube watch URL to embed URL
     function convertToEmbedUrl(watchUrl) {
-        const videoId = watchUrl.split('v=')[1];
+        let videoId;
+        if (watchUrl.includes('youtube.com/watch?v=')) {
+            videoId = watchUrl.split('v=')[1];
+        } else if (watchUrl.includes('youtu.be/')) {
+            videoId = watchUrl.split('youtu.be/')[1];
+        }
         return `https://www.youtube.com/embed/${videoId}`;
     }
     
