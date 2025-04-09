@@ -1,4 +1,5 @@
 # config.yml
+
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
@@ -48,6 +49,17 @@ collections:
     editor:
       preview: false
     files:
+    - label: Calendar of Song entries
+      name: calendar
+      file: '_data/calendar.yml'
+      fields:
+        - label: Calendar entries
+          name: 'items'
+          widget: 'list'
+          fields:
+          - { label: 'Date', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD' }
+          - { label: 'Youtube URL', name: 'youtube', widget: 'string' }
+          - { label: 'Text', name: 'text', widget: 'markdown' }
     - label: Nav bar
       name: navbar
       file: '_data/nav.yml'

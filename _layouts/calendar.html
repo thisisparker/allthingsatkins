@@ -1,0 +1,68 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div id="calendar"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const calendarData = [{% for item in site.data.calendar.items %}
+        {date: "{{ item.date }}",
+         youtube: "{{ item.youtube }}",
+         text: `{{ item.text | markdownify | rstrip }}`}{% unless forloop.last %},{% endunless %}{% endfor %}];
+    
+    // Function to convert YouTube watch URL to embed URL
+    function convertToEmbedUrl(watchUrl) {
+        const videoId = watchUrl.split('v=')[1];
+        return `https://www.youtube.com/embed/${videoId}`;
+    }
+    
+    // Get date from URL hash or use today's date
+    const hash = window.location.hash.substring(1); // Remove the # symbol
+    const targetDate = hash ? new Date(hash) : new Date();
+    
+    // Find the most recent item that matches or is before the target date
+    const sortedItems = calendarData.sort((a, b) => new Date(b.date) - new Date(a.date));
+    const selectedItem = sortedItems.find(item => new Date(item.date) <= targetDate) || sortedItems[sortedItems.length - 1];
+    
+    // Update the calendar div
+    const calendarDiv = document.getElementById('calendar');
+    calendarDiv.innerHTML = `
+        <div class="text-content">${selectedItem.text}</div>
+        <div class="video-container">
+            <iframe src="${convertToEmbedUrl(selectedItem.youtube)}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    `;
+    
+    // Update URL hash if not already set
+    if (!hash) {
+        window.location.hash = selectedItem.date;
+    }
+});
+</script>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    height: 0;
+    overflow: hidden;
+    margin: 1rem 0;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.text-content {
+    margin-bottom: 1rem;
+}
+</style>
