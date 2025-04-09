@@ -19,27 +19,33 @@ document.addEventListener('DOMContentLoaded', function() {
         return `https://www.youtube.com/embed/${videoId}`;
     }
     
-    // Get date from URL hash or use today's date
-    const hash = window.location.hash.substring(1); // Remove the # symbol
-    const targetDate = hash ? new Date(hash) : new Date();
-    
-    // Find the most recent item that matches or is before the target date
-    const sortedItems = calendarData.sort((a, b) => new Date(b.date) - new Date(a.date));
-    const selectedItem = sortedItems.find(item => new Date(item.date) <= targetDate) || sortedItems[sortedItems.length - 1];
-    
-    // Update the calendar div
-    const calendarDiv = document.getElementById('calendar');
-    calendarDiv.innerHTML = `
-        <div class="text-content">${selectedItem.text}</div>
-        <div class="video-container">
-            <iframe src="${convertToEmbedUrl(selectedItem.youtube)}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
-    `;
-    
-    // Update URL hash if not already set
-    if (!hash) {
+    function updateCalendar() {
+        // Get date from URL hash or use today's date
+        const hash = window.location.hash.substring(1); // Remove the # symbol
+        const targetDate = hash ? new Date(hash) : new Date();
+
+        // Find the most recent item that matches or is before the target date
+        const sortedItems = calendarData.sort((a, b) => new Date(b.date) - new Date(a.date));
+        const selectedItem = sortedItems.find(item => new Date(item.date) <= targetDate) || sortedItems[sortedItems.length - 1];
+
+        // Update the calendar div
+        const calendarDiv = document.getElementById('calendar');
+        calendarDiv.innerHTML = `
+            <div class="text-content">${selectedItem.text}</div>
+            <div class="video-container">
+                <iframe src="${convertToEmbedUrl(selectedItem.youtube)}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        `;
+
+        // Update URL hash to selected item's date
         window.location.hash = selectedItem.date;
     }
+
+    // Initial update
+    updateCalendar();
+
+    // Listen for hash changes
+    window.addEventListener('hashchange', updateCalendar);
 });
 </script>
 
