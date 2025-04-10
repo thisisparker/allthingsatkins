@@ -19,7 +19,7 @@ Talking to the press can be intimidating! Drafting a proper press release, advis
 
 ## Copywriting & Editing
 
-As an experienced copywriter, I craft engaging emails, dynamic marketing materials, impactful press releases, and more. From interviews to blogs and op-eds, let me tell your story and captivate your audience with words that resonate. With expertise in editing email campaigns, marketing collateral, press releases, blogs, and op-eds, Atkins refines your message for maximum impact. Experience with grant writing and reporting, technical manuals, planning guides, research reports, white papers, and more, guaranteed polished and professional communication.
+As an experienced copywriter, Atkins crafts engaging emails, dynamic marketing materials, impactful press releases, and more. From interviews to blogs and op-eds, let Atkins tell your story and captivate your audience with words that resonate. With expertise in editing email campaigns, marketing collateral, press releases, blogs, and op-eds, Atkins refines your message for maximum impact. Experience with grant writing and reporting, technical manuals, planning guides, research reports, white papers, and more, guaranteed polished and professional communication.
 
 ## Digital Marketing Strategy
 
