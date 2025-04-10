@@ -1,11 +1,16 @@
 ---
 layout: home
 image: /assets/uploads/michael_and_lucy.jpg
-intro: >
+intro: >-
   Ahoy!
 
 
   My name is Michael Atkins. I’m a communicator strategist and multimedia producer with a passion for storytelling, civic engagement, and all things offbeat. I love to explore the built and natural environments, and love connecting people to their local ecosystem. Watch [my videos](/media), read [my writing](/writing), and check out [my press coverage](/press).
+
+
+
+
+  ## Visit the Calendar of Song
 bio: >-
   In my professional life I’ve worked for television and film productions and
   nonprofits. I currently serve as the Executive Director of the [Atlantic City
