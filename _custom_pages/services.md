@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Services
+description: "We've got everything you'd need. Reasonably priced, too! "
 ---
 Michael Atkins is available to contract for communications consultation, multimedia production, and private naturalist walks. Rates vary depending upon the scale of the consultation project, with in-kind opportunities available for nonprofit endeavors. **"I'm listening..."**
 
