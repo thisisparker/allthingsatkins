@@ -10,7 +10,7 @@ intro: >-
 
 
 
-  > ## Visit the Calendar of Song
+  ## [Visit the Calendar of Song](https://allthingsatkins.com/calendar)
 bio: >-
   In my professional life I’ve worked for television and film productions and
   nonprofits. I currently serve as the Executive Director of the [Atlantic City
