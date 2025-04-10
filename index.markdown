@@ -21,10 +21,10 @@ bio: >-
   heart of Los Angeles. 
 
 
-  I've interviewed a wide range of interesting subjects including: authors, artists, architects, active military personnel, congresspersons, historians, and indigenous tribal leaders along the way. I’ve worked political campaigns for local, state, and federal office, and volunteered for public interest endeavors, including the [Baseball Reliquary](https://baseballreliquary.org/) and [Cape May Bird Observatory](https://njaudubon.org/centers/cape-may-bird-observatory/) with elected board positions with [KPFK Los Angeles](https://www.kpfk.org/) and the [East Hollywood Neighborhood Council](https://www.easthollywood.net/). 
+  I've interviewed a wide range of interesting subjects including: authors, artists, architects, active military personnel, congresspersons, historians, and indigenous tribal leaders along the way. I’ve worked political campaigns for local, state, and federal office, and volunteered for public interest endeavors, including the [Baseball Reliquary](https://baseballreliquary.org/) and [Cape May Bird Observatory](https://njaudubon.org/centers/cape-may-bird-observatory/) with elected board positions with [KPFK Los Angeles](https://www.kpfk.org/) and the [East Hollywood Neighborhood Council](https://www.easthollywood.net/). I currently serve as a mayoral appointed voting member on the Atlantic City Historic Preservation Commission. 
 
 
-  I proudly live in Atlantic City, NJ. Contact me at [michael@allthingsatkins.com](mailto:michael@allthingsatkins.com). Preferably from a pay phone.
+  I live in Atlantic City, NJ. Contact me at [michael@allthingsatkins.com](mailto:michael@allthingsatkins.com). Preferably from a pay phone.
 list_title: Recent posts
 ---
 
