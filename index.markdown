@@ -24,7 +24,7 @@ bio: >-
   I've interviewed a wide range of interesting subjects including: authors, artists, architects, active military personnel, congresspersons, historians, and indigenous tribal leaders along the way. I’ve worked political campaigns for local, state, and federal office, and volunteered for public interest endeavors, including the [Baseball Reliquary](https://baseballreliquary.org/) and [Cape May Bird Observatory](https://njaudubon.org/centers/cape-may-bird-observatory/) with elected board positions with [KPFK Los Angeles](https://www.kpfk.org/) and the [East Hollywood Neighborhood Council](https://www.easthollywood.net/). 
 
 
-  I live in Atlantic City, NJ where my hobbies include bat detecting, bar hopping, and betting on the Birds. Contact me at [michael@allthingsatkins.com](mailto:michael@allthingsatkins.com).
+  I proudly live in Atlantic City, NJ. Contact me at [michael@allthingsatkins.com](mailto:michael@allthingsatkins.com). Preferably from a pay phone.
 list_title: Recent posts
 ---
 
