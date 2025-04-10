@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Atlantic City Attractions "
+description: "Snapshot of non-casino attractions in America's Playground to eat,
+  drink, or experience. "
 ---
 ![](/assets/uploads/ac_skyline.jpeg)
 
