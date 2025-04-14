@@ -36,11 +36,11 @@ document.addEventListener('DOMContentLoaded', function() {
     function updateCalendar() {
         // Get date from URL hash or use today's date
         const hash = window.location.hash.substring(1); // Remove the # symbol
-        const targetDate = hash ? new Date(hash) : new Date();
+        const targetDate = hash ? new Date(`${hash} 00:00`) : new Date();
 
         // Find the most recent item that matches or is before the target date
         const sortedItems = calendarData.sort((a, b) => new Date(b.date) - new Date(a.date));
-        const selectedItem = sortedItems.find(item => new Date(item.date) <= targetDate) || sortedItems[sortedItems.length - 1];
+        const selectedItem = sortedItems.find(item => new Date(`${item.date} 00:00`) <= targetDate) || sortedItems[sortedItems.length - 1];
 
         // Update the calendar div
         const calendarDiv = document.getElementById('calendar');
