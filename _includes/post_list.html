@@ -15,7 +15,7 @@
       {{ post.content }}
       <hr />
       {% elsif include.show_description -%}
-      {{ post.description }}
+      <p>{{ post.description }}</p>
       {% elsif include.show_excerpt -%}
       {{ post.excerpt }}
       {%- endif -%}

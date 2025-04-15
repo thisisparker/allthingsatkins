@@ -6,9 +6,6 @@ intro: >-
 
 
   My name is Michael Atkins. I’m a communicator strategist and multimedia producer with a passion for storytelling, civic engagement, and all things offbeat. I love to explore the built and natural environments, and love connecting people to their local ecosystem. Watch [my videos](/media), read [my writing](/writing), and check out [my press coverage](/press).
-
-
-  # [Visit the Calendar of Song](https://allthingsatkins.com/calendar)
 bio: >-
   In my professional life I’ve worked for television and film productions and
   nonprofits. I currently serve as the Executive Director of the [Atlantic City
@@ -25,6 +22,13 @@ bio: >-
 
 
   I proudly live in Atlantic City, NJ. Contact me at [michael@allthingsatkins.com](mailto:michael@allthingsatkins.com). Preferably from a pay phone.
+link_cards: 
+   - text: Calendar of Song
+     link: /calendar
+   - text: Pages A-Z
+     link: /pages
+   - text: Blog
+     link: /blog
 list_title: Recent posts
 ---
 
@@ -33,5 +37,43 @@ list_title: Recent posts
 <section id="intro">{{ page.intro | markdownify }}
 </section>
 
+<section id="link-cards">
+{% for card in page.link_cards %}
+<div><a href="{{ card.link }}"><h2>{{ card.text }}</h2></a></div>
+{% endfor -%}
+</section>
+
 <section id="more-bio">{{ page.bio | markdownify }}
 </section>
+
+<style>
+#link-cards {
+display: flex;
+align-items: stretch;
+gap: 30px;
+margin-bottom: 15px;
+  div {
+    padding: 10px;
+    border: thick double #020788;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    a {
+      color: #111;
+      text-decoration: none;
+      :hover {
+        text-decoration: underline;
+      }
+    }
+    h2 {
+      margin-bottom: 0;
+    }
+  }
+@media (max-width: 600px) {
+  flex-direction: column
+}
+}
+
+</style>
