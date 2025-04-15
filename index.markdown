@@ -56,11 +56,13 @@ margin-bottom: 15px;
     padding: 10px;
     border: thick double #020788;
     flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     text-align: center;
     a {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
       color: #111;
       text-decoration: none;
       :hover {
