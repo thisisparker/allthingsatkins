@@ -45,37 +45,3 @@ list_title: Recent posts
 
 <section id="more-bio">{{ page.bio | markdownify }}
 </section>
-
-<style>
-#link-cards {
-display: flex;
-align-items: stretch;
-gap: 30px;
-margin-bottom: 15px;
-  div {
-    padding: 10px;
-    border: thick double #020788;
-    flex: 1;
-    text-align: center;
-    a {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      width: 100%;
-      height: 100%;
-      color: #111;
-      text-decoration: none;
-      :hover {
-        text-decoration: underline;
-      }
-    }
-    h2 {
-      margin-bottom: 0;
-    }
-  }
-@media (max-width: 600px) {
-  flex-direction: column
-}
-}
-
-</style>
