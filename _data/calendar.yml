@@ -1,62 +1,617 @@
 items:
-  - date: 2025-05-17
-    text: "\"You're riding high in April, shot down in May...\""
-    youtube: https://youtu.be/TnlPtaPxXfc
-  - date: 2025-05-16
-    text: "\"It's just another Saturday\" (Song title \"May 16th\")"
-    youtube: https://youtu.be/hzYOA4-xNaA
-  - date: 2025-04-30
-    text: "\"Switchman's sleeping, Train hundred and two is On the wrong track and
-      headed for you!\" [Casey Jones was a dedicated railroader \"killed in
-      action\" on April 30th, 1900.
-      ](https://en.wikipedia.org/wiki/Casey_Jones)"
-    youtube: https://youtu.be/d160GSGtPxY
-  - date: 2025-04-29
-    youtube: https://youtu.be/e1dPKfxRhk0
-    text: "\"April 26th, 1992, There was a riot on the streets. Tell me where were
-      you?\" Fun fact from YouTube: The official title of the song references
-      the date April 29, 1992; however, the lyric was sang as \"April 26,
-      1992.\" It has been said this was a mistake, but the take was strong
-      enough the band kept it. To all those that are skeptical about this, just
-      Google Sublime's discography. CoS: The [1992 Watts Riots
-      ](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots)erupted in South LA
-      following the acquittal of four police officers for the beating of Rodney
-      King. When the dust settled six days later 62 were dead and over 12,000
-      arrests were made."
-  - date: 2025-04-25
-    youtube: https://youtu.be/cZqN1glz4JY
-    text: "\"Then in nineteen-fifteen my country said son it's time to stop
-      rambling, there's work to be done...\" [Anzac Day is observed annually on
-      the 25th of April in Australia and New
-      Zealand](https://en.wikipedia.org/wiki/Anzac_Day)."
-  - date: 2025-04-19
-    youtube: https://youtu.be/doIMYvZyo_k?si=fH0QkAyv6tQ-lE0J
-    text: "\"When you're lost in the rain in Juarez and it's Eastertime, too...\""
-  - date: 2025-04-17
-    text: "\"They're building bombs while our schools are falling, tell me, what in
-      the hell we're paying taxes for?...\""
-    youtube: https://youtu.be/tes4s6zKSLs?si=BpifHmVpRMnhXKHU
-  - date: 2025-04-21
-    youtube: https://www.youtube.com/watch?v=JVsdmYAYiD0
-    text: "\"It's April 21st and everybody knows today is Earth Day / Merry
-      Christmas, Happy Birthday to whoever's being born\""
-  - date: 2025-04-16
-    youtube: https://youtu.be/Ai3YggXpJos
-    text: '"I work hard for my money / Every April you take it all away"'
-  - date: 2025-04-15
-    youtube: https://youtu.be/l0zaebtU-CA
-    text: '"One for you, nineteen for me..." [How to file an extension with the
-      IRS](https://www.irs.gov/newsroom/irs-act-now-to-file-pay-or-request-an-extension).'
-  - date: 2025-04-14
-    youtube: https://youtu.be/mjX2ztmjLk4
-    text: '"Hey, hey, it was the fourteenth day of April"'
-  - date: 2025-04-13
-    youtube: https://youtu.be/hNlnl8nbfSE
-    text: "\"It was midnight on the sea, Band playin' 'Nearer My God to Thee',
-      Cryin', 'Fare thee, Titanic, fare thee well.'\" The unsinkable Titanic
-      sank on [April 15, 1912 at
-      23:40](https://en.wikipedia.org/wiki/Sinking_of_the_Titanic) (ship's time)
-      resulting in the death of more than 1500 passengers."
-  - date: 2025-04-08
-    youtube: https://youtu.be/amhINnExdJE
-    text: "\"Crawl across toward your window / I'm calling softly from the street\""
+- date: 2025-12-31
+  text: "\u2026 Tonight's another chance to start again. It's just another New Year's\
+    \ Eve."
+  youtube: https://youtu.be/qSt2td5wwyA?si=Feaky1RlUjeNJ9lu
+- date: 2025-12-30
+  text: '"Here comes the jackpot question in advance. What are you doing New Year''s,
+    New Year''s Eve?"'
+  youtube: https://youtu.be/p597VDvsekc?si=Wdu26UIQBm_DbE64
+- date: 2025-12-29
+  text: "\"Won't you cover me with your pretty lies? Bury my heart at Wounded Knee...\"\
+    \ On December 29, 1890 the US Army committed a mass shooting murder of Lakota\
+    \ people a part of its lengthy campaign to \"civilize\" the frontier. What makes\
+    \ the Wounded Knee Massacre exceptional within American history is the speed and\
+    \ violence of the massacre; some reports indicate that the Army officers lost\
+    \ control of their men armed with early machine guns, who fanned out and methodically\
+    \ murdered the wounded women and children. The Wounded Knee Massacre returned\
+    \ to public consciousness after the publication in 1970 of a book titled \"Bury\
+    \ My Heart at Wounded Knee: An Indian History of the American West\" by Dee Brown,\
+    \ who borrowed the book's title from the 1927 poem \"American Names\" by Stephen\
+    \ Vincent Ben\xE9t: \"I shall not be there. I shall rise and pass. Bury my heart\
+    \ at Wounded Knee\"."
+  youtube: https://youtu.be/lKSrW5pwuA4
+- date: 2025-12-25
+  text: '"And I see forests and it''s the 25th of December..."'
+  youtube: https://youtu.be/oQIBEkHDACI?si=SxumLnewse5kqmos
+- date: 2025-12-24
+  text: And the boys in the NYPD choir are singing "Galway Bay"...
+  youtube: https://youtu.be/j9jbdgZidu8?si=-2mui_pjSRvUVk1t
+- date: 2025-12-19
+  text: '"Oh, what a night! Late December, back in ''63 / What a very special time
+    for me..." As I remember it ended too soon.'
+  youtube: https://youtu.be/mTUhnIY3oRM?si=t38S503qVnfz2cXe
+- date: 2025-12-15
+  text: Happy Beethovenstag!
+  youtube: https://youtu.be/6n_DsDGII_s?si=QLaJD2wGvYWuQgyD
+- date: 2025-12-12
+  text: '"12-12-84, Ten o''clock at night / Funny how you can remember certain moments
+    in your life..."'
+  youtube: https://youtu.be/ca_3LXm6_1g
+- date: 2025-12-11
+  text: '"And the girls go willing spinning on Jersey Thursday..."'
+  youtube: https://youtu.be/JAGcT9tzzM4?si=X0CpzOn_i3-7-TWU
+- date: 2025-12-08
+  text: '"It was the fearful night of December eighth / He was returning home from
+    the studio late..."'
+  youtube: https://youtu.be/tsN86H0yzrE
+- date: 2025-12-04
+  text: '"Shawn Carter was born December 4th, weighing in at ten pounds, eight ounces..."'
+  youtube: https://youtu.be/6eXAoWgFM2M?si=MawE-6pMeIBhWd0H
+- date: 2025-12-03
+  text: '"Frank Zappa and the Mothers were at the best place around. But some stupid
+    with a flare gun burned the place to the ground..." Deep Purple had moved to Montreux
+    to record an album when they chanced upon a Zappa show at the casino. On December
+    4, 1971 Frank Zappa and The Mothers of Invention were playing at the Montreux
+    Casino theater, when someone from the audience fired a flare gun toward the ceiling,
+    which immediately caught fire, as it was covered by rattan. The resulting blaze
+    ultimately led to the destruction of the entire casino complex.'
+  youtube: https://youtu.be/zUwEIt9ez7M
+- date: 2025-12-02
+  text: '"Now the first of December was covered with snow. Yes and so was the turnpike
+    from Stockbridge to Boston..."'
+  youtube: https://youtu.be/k2x0fPgAj_Y?si=383nLuid-4_HjIwc
+- date: 2025-12-01
+  text: '"December 1st, 1955 our freedom movement came alive / And because of Sister
+    Rosa you know we don''t ride on the back of the bus no more..."'
+  youtube: https://youtu.be/JKCsZc37esU
+- date: 2025-11-29
+  text: November the 29th, I bust open my mommas cock / Pussy ho addicted to drinking,
+    now I'm addicted to crack rock
+  youtube: https://youtu.be/4I4am7moLoU
+- date: 2025-11-28
+  text: '"When Black Friday comes I''ll fly down to Muswellbrook..."'
+  youtube: https://youtu.be/neJorQci-wI?si=pFeFSThZ2jRiJxUM
+- date: 2025-11-27
+  text: '"And when he gets to the end, he wants to start all over again..." Celebrate
+    Thanksgiving with The Band and Friends from November 25, 1976.'
+  youtube: https://youtu.be/I2mg9Ij1cRU?si=x4J_t9R4rqYC4LXO
+- date: 2025-11-26
+  text: '"Now it all started two Thanksgivings ago..."'
+  youtube: https://youtu.be/WaKIX6oaSLs?si=nnrzklgLEmDYvvnA
+- date: 2025-11-23
+  text: '"Atom secrets, secret leaflet. Have the boys found the leak yet? The molehill
+    sets the wheel in motion, his downfall picks up locomotion. The people must have
+    something good to read on a Sunday!"'
+  youtube: https://youtu.be/VxgWtbMnKfs?si=bSTsCf8egVHU-NIK
+- date: 2025-11-23
+  text: '"You know I remember the 23rd of November..."'
+  youtube: https://youtu.be/hUT1xvdrlDA
+- date: 2025-11-19
+  text: 'This song, also known as "I Dreamed I Saw Joe Hill Last Night" and originally
+    written in 1936, [remembers labor activist and author Joe Hill](https://en.wikipedia.org/wiki/Joe_Hill_\(activist\)).
+    Hill was a major figure in early 20th century labor, particularly with his organization
+    Industrial Workers of the World (IWW / Wobblies) who coined the phrase "pie in
+    the sky". In 1914 he was framed for the murder of former cop and grocer along
+    with his son, which led to the arrest and ultimate execution of Joe Hill on November
+    19, 1915. "Aftermath" from Wikipedia: Hill''s body was sent to Chicago, where
+    it was cremated; in accordance with his wishes, his ashes were placed into 600
+    small envelopes and sent around the world to be released to the winds. Delegates
+    attending the Tenth Convention of the IWW in Chicago received envelopes November
+    19, 1916, one year to the day of Hill''s execution (and not on May Day 1916 as
+    Wobbly lore claims).The rest of the 600 envelopes were sent to IWW locals, Wobblies
+    and sympathizers around the world on January 3, 1917. In 1988 a final envelope
+    of Hill''s remains were discovered as seized by the US Postal Service and ultimately
+    returned to the Wobblies who read his final will and released his ashes into a
+    bonfire in Southeastern Michigan in November 1990.'
+  youtube: https://youtu.be/99jMOkGL1dE?si=_VQTz42zSFHEJLAJ
+- date: 2025-11-15
+  text: '"And you got paid on Friday, and your pockets are jinglin'' and you see the
+    lights, you get all tinglin'' cause you''re cruisin'' with a six, and you''re
+    looking for the heart of Saturday night...'
+  youtube: https://youtu.be/lbH6BUNsuts?si=OOceIyXOA54lBOgM
+- date: 2025-11-14
+  text: '"We can never remember the things we always forget, things like polyester
+    pants and shoes don''t make it easy to remember. Was it here or yesterday, or
+    wasn''t it the 14th of November.?..."'
+  youtube: https://youtu.be/RhZoajKE93M?si=GDvTZZMh0wPoEXMO
+- date: 2025-11-13
+  text: '"Deep within the Yarmouth Castle, the fire begins to glow, It leaps into
+    the hallways, and climbs and twists and grows..." A much lesser known Lightfoot
+    sunken ship ballad, this song honors the Yarmouth Castle which sank on November
+    12, 1965 claiming the lives of 90 seamen. In the aftermath of this major commercial
+    shipping tragedy it led to new rules and regulations enforcing safety at sea.'
+  youtube: https://youtu.be/I4cAnMZc79U?si=mP8Vxt4HCfgjrEU7
+- date: 2025-11-12
+  text: '"I cry, but I can''t buy your Veteran''s Day poppy, it don''t get me high..."The
+    good Captain Beefheart references the World War I symbol of peace and loss, the
+    poppy. Battlefields from the First World War were memorialized by doctor/poet
+    John McCrae who wrote: "In Flanders fields the poppies blow / Between the crosses,
+    row on row..."'
+  youtube: https://youtu.be/r6mzoso95-Q?si=vTSGyWw1OAPh3s2J
+- date: 2025-11-11
+  text: '"Well I used to hang out down at the VFW hall and stare at the photographs
+    up on the wall.." While Cash''s tune remembers Vietnam veterans, Veteran''s Day
+    was originally observed as Armistice Day as the ceasefire of World War I fell
+    on the 11th hour of the 11th day of the 11th month of 1919. It was observed as
+    Armistice Day until 1954, when it was changed to Veterans Day in America to include
+    World War II veterans and soldiers who fought in the Korean "Conflict", as it
+    was known at the time.'
+  youtube: https://youtu.be/tmOEGdHYpIw?si=fc0h_os78lczMV7O
+- date: 2025-11-10
+  text: One of the most obvious and most popular entries in the Calendar of Song,
+    the historical event of the sinking of the Edmund Fitzgerald occured when the
+    "gales of November came slashing" and sank the ship along [with 29 crew on November
+    10, 1975](https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald). Lightfoot recorded
+    the iconic song mere weeks following the tragedy.
+  youtube: https://youtu.be/PH0K6ojmGZA?si=g3CqL5T0-Uw6JUC0
+- date: 2025-11-09
+  text: '"All around that dull gray world, from Moscow to Berlin, people storm the
+    barricades, walls go tumbling in.." [The Berlin Wall fell on Nov 9, 1989](https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall).'
+  youtube: https://youtu.be/ZTtHbLkg3ac?si=CfulZjuQ84D_uVsZ
+- date: 2025-11-08
+  text: '"Saw the eagle fly, through a clear, blue sky. 1965, the 8th of November..."
+    [November 8th, 1965](https://www.8thofnovember.com/lyrics/), the 173rd Airborne
+    Brigade on Operation Hump, War Zone D in Vietnam, were ambushed by over 1,200
+    V.C. Forty-eight American soldiers lost their lives.'
+  youtube: https://youtu.be/h_OyFoxp_uo
+- date: 2025-11-05
+  text: '"Remember, remember / The Fifth of November"'
+  youtube: https://youtu.be/NgnRDBp3JPA?si=wvzeFDcQL1zdfIwa
+- date: 2025-11-04
+  text: '"Wild and scheming, could be my election day.."'
+  youtube: https://youtu.be/4W5aKwrsYIM?si=jbL6MDWfj0ZzjMdi
+- date: 2025-11-03
+  text: '"It was on the fifth of November, when time it went back...'
+  youtube: https://youtu.be/5SKS_xcBS5w?si=GTcN7hSUAHcZzsyA
+- date: 2025-11-01
+  text: '"November has tied me to an old dead tree get word to April to rescue me.
+    November''s cold chain made of wet boots in rain..."'
+  youtube: https://youtu.be/aSFrdnOw8uQ?si=psxTNJDAYzPgECX8
+- date: 2025-10-31
+  text: '"October 31st, that is my date of birth..." The opening to this Beastie Boys
+    song is a prominent sample in a subsequent J Dilla produced songs "The New" and
+    Pharcyde''s "Drop".'
+  youtube: https://youtu.be/QbGnU96ByYQ?si=H8wVQ5Z-svcRCsM2
+- date: 2025-10-30
+  text: '"I was born on the eve of Halloween"'
+  youtube: https://youtu.be/h8xHa_nqOdc
+- date: 2025-10-29
+  text: '"Wednesday I remembered your physical poetry. The passionate pretender, I''m
+    a part of your history..."'
+  youtube: https://youtu.be/PJWVPHuhw3w?si=BL9r2WEU8neAoxdu
+- date: 2025-10-26
+  text: '"Sunday papers, don''t ask no questions. Sunday papers, don''t get no lies.
+    Sunday papers, don''t raise objections. Sunday papers, ain''t got no eyes..."'
+  youtube: https://youtu.be/BgTcsdltfec?si=XPafV1-6LTvidM7Q
+- date: 2025-10-25
+  text: Written by bassist and founding member [Steve Harris](https://en.wikipedia.org/wiki/Steve_Harris_\(musician\)),
+    [the song is based on the Charge of the Light Brigade](https://en.wikipedia.org/wiki/The_Trooper#)
+    at the [Battle of Balaclava](https://en.wikipedia.org/wiki/Battle_of_Balaclava)
+    on October 25, 1854, which took place during the [Crimean War](https://en.wikipedia.org/wiki/Crimean_War),
+    and inspired by [Lord Tennyson's](https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson)
+    1854 poem [of the same name](https://en.wikipedia.org/wiki/The_Charge_of_the_Light_Brigade_\(poem\)).
+  youtube: https://youtu.be/X4bgXH3sJ2Q?si=UWVuY57OHCO_7XQs
+- date: 2025-10-21
+  text: '"October 21st, Lavelle came to the world..."'
+  youtube: https://youtu.be/BizqyhH4ALw
+- date: 2025-10-19
+  text: '"We fell in love in October, That''s why I love fall..."'
+  youtube: https://youtu.be/iggmiF7DNoM?si=mSVymk4yYJYVXcdS
+- date: 2025-10-16
+  text: '"''October''...it''s an image. We''ve been through the 60s, a time when things
+    were in full bloom. We had fridges and cars, we sent people to the moon and everyone
+    thought how great mankind was. And now, as we go through the 70s and 80s, it''s
+    a colder time of the year. It''s after the harvest. Trees are stripped bare. You
+    can see things and we finally realize that maybe we aren''t so smart after all,
+    now that there''s millions of unemployed people, now that we used the technology
+    we''ve been blessed with to build bombs for war machines, to build rockets, whatever.
+    So ''October'' is an ominous word, but it''s also quite lyrical." -Bono'
+  youtube: https://youtu.be/cjxHhoY2E8Y?si=9OoM5dmNFzWZ8Aoq
+- date: 2025-10-11
+  text: '"I go out on Friday night and I come home on Saturday morning..."'
+  youtube: https://youtu.be/Phr7vxxgj7I?si=pdgAbhpmfk1I2K31
+- date: 2025-10-09
+  text: "\"We were doing witchcraft, trying to make witchcraft music. I was stoned\
+    \ on hashish and grass and I got a little too much into this one tape called \"\
+    Fire\". Then, a place burned down the same day we did the song. And I said to\
+    \ myself, \"Somehow we must have burned the building down.\" \u2014Brian Wilson,\
+    \ 1992. The song was originally named after the cow that sparked the Great Chicago\
+    \ Fire which consumed some 17,000 structures between October 8-10, 1871. [The\
+    \ \"Fire\" recording session](https://en.wikipedia.org/wiki/The_Elements:_Fire)\
+    \ and structure fire is remembered by close associates of Brian Wilson as the\
+    \ start of his mental unraveling which would shelve the \"SMiLE\" album until\
+    \ a box set release in 2011."
+  youtube: https://youtu.be/fSDUu2B_X4k?si=sZjHlF2jl2aOVd-i
+- date: 2025-10-08
+  text: '"Well someone robbed the Glendale Train this morning at half past nine..."
+    NRPS misquote the total the James Gang stole from in the Blue Cut / Glendale Train
+    Robbery (Oct 8, 1879) at "$16 Gs"; in reality the James Gang misheard the express
+    safe manager for $60,000 when in [reality only $6,000 was found in the safe](https://www.angelfire.com/mi2/jamesyoungergang/glendale.html).'
+  youtube: https://youtu.be/Xy7JYOC7TSc
+- date: 2025-10-06
+  text: '"It was the morning of October 6th, 1960, I was wearing my brown suit...'
+  youtube: https://youtu.be/ZtABhCcTFjM
+- date: 2025-10-04
+  text: '"Wednesday October the fourth, that''s when we got our day in court..." Fresh
+    Prince recounts a courtroom kerfuffle following a rear end collision with a 90
+    year old bat who looked like a shar pei.'
+  youtube: https://youtu.be/CHTweo7CdO4
+- date: 2025-10-03
+  text: '"But I don''t want to lose myself, And I don''t want to lose you..."'
+  youtube: https://youtu.be/pEdEDUUxtlE
+- date: 2025-10-01
+  text: '"Summer has come and passed. The innocent can never last. Wake me up when
+    September ends..."'
+  youtube: https://youtu.be/NU9JoFKlaZ0?si=zJLMilL1TQZh88Mg
+- date: 2025-09-30
+  text: '"And some say that it loops forever this road that I lose you on every time...
+    "'
+  youtube: https://youtu.be/wvbI-nS-VN0
+- date: 2025-09-27
+  text: On September 27, 1903 the "Fast Mail" train Number 97 derailed due to excessive
+    speed near Danville, VA, killing 11 on board personnel and injuring others. The
+    wreck inspired a ballad and generated an early copyright lawsuit over authorship
+    of the song. Visit the incredibly rich Wikipedia entry for detailed information
+    on the wreck, the balland, and the copyright suit. [The Wreck of the Old '97.](https://en.wikipedia.org/wiki/Wreck_of_the_Old_97)
+  youtube: https://youtu.be/BOeksMXBN8s?si=F32oJRYGEDlRKQ-E
+- date: 2025-09-24
+  text: "From YouTube: The shanty is popularly supposed to have been started by British\
+    \ seamen who jumped ship to serve with Antonio L\xF3pez de Santa Anna in the Mexican-American\
+    \ War. Tension between the USA and Britain was still high, and Santa Anna became\
+    \ a hero-figure to those countries opposing the US. The lyrics themselves are\
+    \ rather economical with historical accuracy; for example, the result of the Battle\
+    \ of Monterrey (or alternatively the Battle of Molino del Rey) is presented as\
+    \ a US rout rather than the Mexican defeat that really occurred ."
+  youtube: https://youtu.be/h-7byyTHh1Q
+- date: 2025-09-23
+  text: '"On the 23rd of September the sun is shining...'
+  youtube: https://youtu.be/MGF-qRZhNxA
+- date: 2025-09-22
+  text: Happy birthday, Trane!
+  youtube: https://youtu.be/KwIC6B_dvW4?si=dynfCjyJ1PcSZ6ad
+- date: 2025-09-21
+  text: '"Do you remember? The 21st night of September?"'
+  youtube: https://youtu.be/Gs069dndIYk?si=TeaDMPU6pcC09vzm
+- date: 2025-09-13
+  text: Prelude (Deodato's eighth studio album) features one of the most heavily sampled
+    drum breaks in the early hip hop cannon. The opening bars of September 13 features
+    a legendary break beat used in many classic hip hop songs.
+  youtube: https://youtu.be/AUe4SJlMO6c
+- date: 2025-09-12
+  text: '"I met a boy called Frank Mills on September twelfth right here in front
+    of the Waverly..."'
+  youtube: https://youtu.be/jlN6GwZtTkI
+- date: 2025-09-09
+  text: '"Woman wishing for wings..."'
+  youtube: https://youtu.be/ZTCnkAZsl6s
+- date: 2025-09-06
+  text: '"[When classes start I''ll quit, i''ve got until September 6th](https://genius.com/18396654/Lifter-puller-mission-viejo/When-classes-start-ill-quit-ive-got-until-september-6th-when-classes-start-ill-quit-this-this-is-just-some-summer-slippage)..."'
+  youtube: https://youtu.be/iTTmmTyIaus?si=pMa8KJxnsW6h8f-L
+- date: 2025-09-03
+  text: '"It was the third of September / That day I''ll always remember, yes I will
+    / Cause that was the day that my daddy died / I never got a chance to see him..."'
+  youtube: https://youtu.be/71l85z2bXAs?si=lskPsJNGERk8GQh0
+- date: 2025-09-02
+  text: '"It''s the thirty-third of August and I''m finally touchin'' down / Eight
+    days from Sunday, Lord, I''m Saturday-bound..."'
+  youtube: https://youtu.be/0dYwATa970w?si=4SaP-ClzFsE4LyVP
+- date: 2025-08-31
+  text: On Aug 31, 1997 Princess Diana died in a car crash in Paris. On Sept 6 Elton
+    John performed a newly penned threnody in her honor at his public funeral which
+    was viewed by millions the world over. (John said he wrote the song to cope with
+    the grief of losing his second close friend to violence that Summer; his friend
+    Gianni Versace was murdered by gunshot in July 1997, just six weeks earlier.)
+    "Candle in the Wind (1997)" would be released a week later and sell 1.5 million
+    copies in its first week to become one of the all-time most selling singles, second
+    only to Bing Crosby's "White Christmas".
+  youtube: https://youtu.be/1o9rLDCfO6o?si=8OXR1fCdiiuyehYB
+- date: 2025-08-30
+  text: '"White riot - I want to riot!" The Clash''s debut single was inspired by
+    frontman Joe Strummer and bassist Paul Simonon''s participation in the [1976 Notting
+    Hill Carnival](https://en.wikipedia.org/wiki/Notting_Hill_Carnival) riots. The
+    annual event was established in the late 1950s, partially due to poor race relations,
+    and its 1976 edition saw predominantly Caribbean Londoners in conflict with constabulary
+    forces and their harassment of non-white city residents. Strummer defended the
+    lyrics, which were misinterpreted as pro-white, when Strummer intended the lyrics
+    as a call to arms for white to join black solidarity efforts in against class
+    struggle and police brutality.'
+  youtube: https://youtu.be/IvG3is7Bm1w?si=7FoM0gqaw_PLXwCj
+- date: 2025-08-29
+  text: Happy birthday Bird!
+  youtube: https://youtu.be/l9lwIqA0bto?si=ROLr8zZc785owJc1
+- date: 2025-08-28
+  text: '"You read about it everyday, some kid gunned down in East LA..." The Chicano
+    Movement was well underway for several years by August 1970 when LA County Sheriff''s
+    deployed tear gas in Laguna Park to disperse a protest against the Vietnam War
+    and the disproportionate loss of Mexican-American draftees. Ruben Salazar was
+    the KMEX news director and columnist for the Los Angeles Times who covered the
+    demonstration before retreating to a Whittier Boulevard bar called the Silver
+    Spoon. LA Sheriffs fired tear gas projectiles into the bar, one of which struck
+    Salazar fatally in the head. [Read more about Salazar, the Chicano Movement, and
+    his violent death at the hands of the police state. ](https://boyleheightsbeat.com/remembering-the-life-and-legacy-of-latino-journalist-ruben-salazar-and-the-chicano-moratorium/)'
+  youtube: https://youtu.be/TbZmhMPbALY
+- date: 2025-08-24
+  text: '"Early dawning, Sunday morning, It''s all the streets you crossed, not so
+    long ago...'
+  youtube: https://youtu.be/Xhbyj8pqUao?si=87iK0nN_k_3T-gMZ
+- date: 2025-08-20
+  text: '"In the blue August Moon..."'
+  youtube: https://youtu.be/8w59YhL-6u8?si=qMBV8rjLMMlf1L3s
+- date: 2025-08-17
+  text: Ironically, Joni missed the Aquarian Exposition known as Woodstock and appeared
+    instead on [the Dick Cavett Show](https://youtu.be/y-yzV5gKvGg?si=jZylzC7WNz5vTmBc)
+    in August 1969. She watched the 3 Days of Peace and Music unfold on television
+    from New York City, where she penned this song. "By the time we got to Woodstock
+    we were half a million strong."
+  youtube: https://youtu.be/cRjQCvfcXn0
+- date: 2025-08-14
+  text: '"Friday night, August the 14th / Old lady luck smiled down on me / My income
+    tax return came through..."'
+  youtube: https://youtu.be/9Hbr778CD3M
+- date: 2025-08-11
+  text: '"Wednesday I watched the riot... / I seen the cops out on the street / Watched
+    ''em throwin'' rocks and stuff / And chokin'' in the heat..." [August 11-16, 1965](https://en.wikipedia.org/wiki/Watts_riots)
+    Zappa watched the Watts Rebellion in the streets of South LA. Sparked by LAPD
+    use of excessive force at a drunk driving stop, the following days led to massive
+    destruction of property and mobilization of police and National Guard forces to
+    quell the disturbance. After six days of unrest the results included 34 deaths,
+    over 1000 injuries, and over 3400 arrests.'
+  youtube: https://youtu.be/GFVwohXMgmQ?si=cSthMwNJewb5AbX8
+- date: 2025-08-08
+  text: '"I see, a bunch of hippies crying / Yeah, August 8th is a beautiful day."
+    Fat Mike was no fan of the Grateful Dead, penned this song about the death of
+    Jerry Garcia, who uncooperatively died on the 9th not the 8th.'
+  youtube: https://youtu.be/0Wylmcdxszw?si=2-dCPeSB2RgKR3yH
+- date: 2025-08-07
+  text: During the production of the album "[Destination Anywhere](https://en.wikipedia.org/wiki/Destination_Anywhere_\(Jon_Bon_Jovi_album\))",
+    the daughter of Bon Jovi's former personal manager Paul Korzilius, Katherine,
+    died under mysterious circumstances. "August 7, 4:15," the date she was found
+    dead, is dedicated to her. Her death remains unsolved.
+  youtube: https://youtu.be/IoABwDxs9q8
+- date: 2025-08-06
+  text: '"Enola Gay, is mother proud of Little Boy today? Ah-ha, this kiss you give
+    / It''s never ever gonna fade away!" on [August 6, 1945](https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki#Bombing_of_Hiroshima)
+    the Enola Gay dropped the first atomic bomb (named Little Boy) on Hiroshima. The
+    bomb created a 2 mile wide firestorm which directly or indirectly through radiation
+    poisoning killed +150,000 civilians.'
+  youtube: https://youtu.be/d5XJ2GiR6Bo
+- date: 2025-08-05
+  text: '"Goodbye Norma Jeane..." Marilyn Monroe overdosed in her Brentwood home on
+    [August 4, 1962 ](https://en.wikipedia.org/wiki/Death_of_Marilyn_Monroe)and discovered
+    in the early morning hours of August 5 by her housekeeper.'
+  youtube: https://youtu.be/NoOhnrjdYOc?si=Jz6riv9tw-RpQ1sB
+- date: 2025-08-04
+  text: "On August 1st, 1981\u2026 I cycled to Scott\u2019s house with a BB Gun"
+  youtube: https://youtu.be/Vnfmro1mtiU
+- date: 2025-08-03
+  text: Interesting experimental song from the folk duo splices "Silent Night" (traditional)
+    with the news bulletin from August 3, 1966.
+  youtube: https://youtu.be/WgYFXCUEL4Y
+- date: 2025-08-02
+  text: '"First Day in August, last rain was in May..."'
+  youtube: https://youtu.be/V1nuq1sbhlk
+- date: 2025-08-01
+  text: '"On the first day of August I wanna wake up by your side after sleeping with
+    you on the last night of July."'
+  youtube: https://youtu.be/xHAnMd24pd4
+- date: 2025-07-29
+  text: '"Marie Provost did not look her best the day the cops bust into her lonely
+    nest. In the cheap hotel up on Hollywood West July 29."'
+  youtube: https://youtu.be/G_-Gxl1iSL4?si=z_iOvk7-JQRxVy3i
+- date: 2025-07-28
+  text: '"On July 29th at 5:29 am / The gadget turned the pre-dawned sky as bright
+    as the sun / As the first atomic mushroom cloud rose above the horizon..." Another
+    rare anachronism in the Calendar of Song; [July 16, 1945](https://en.wikipedia.org/wiki/Trinity_\(nuclear_test\))
+    Oppenheimer, et al, executed the Trinity Test and unleashed nuclear weapons upon
+    the world. He was right, we would never be the same.'
+  youtube: https://youtu.be/fbzlYxeX4tg
+- date: 2025-07-19
+  text: "\"\xB4Where were you on the night of July 19, '53?\xB4\""
+  youtube: https://youtu.be/PYHiMXTS488
+- date: 2025-07-15
+  text: '[St. Swithin''s Day](https://en.wikipedia.org/wiki/Swithun) is in the UK
+    a bit like Groundhog''s Day in America. The weather on July 15 will dictate how
+    the weather will present for the next 40 days of rain or sunshine.'
+  youtube: https://youtu.be/ljJl-E5bzm4
+- date: 2025-07-14
+  text: '"But they''re marching to Bastille Day / the guillotine will claim her bloody
+    prize..."'
+  youtube: https://youtu.be/80hamog2uks?si=tJm3Aw65meO6YC83
+- date: 2025-07-13
+  text: '"Well July the 13th 1985, was the day we watched Live Aid..."'
+  youtube: https://youtu.be/gmBPZDOQMyk
+- date: 2025-07-12
+  text: '"Gonna break away on the thirteenth of July"'
+  youtube: https://youtu.be/YYp5hX1cvzY
+- date: 2025-07-11
+  text: '"I don''t care if Monday''s blue, Tuesday''s gray and Wednesday too, Thursday
+    I don''t care about you, It''s Friday, I''m in love..."'
+  youtube: https://youtu.be/mGgMZpGYiy8?si=XnG245A5DqGPkDLj
+- date: 2025-07-09
+  text: '"I do recall now the smell of the rain / Fresh on the pavement, I ran off
+    the plane / That July ninth, the beat of your heart"'
+  youtube: https://youtu.be/idWma942CUI?si=m1vkBDSJz14jEy07
+- date: 2025-07-08
+  text: The Battle of Marston Moor was fought [July 2, 1644](https://en.wikipedia.org/wiki/Battle_of_Marston_Moor).
+    (Hey, early July is eventful in the anglophone world!) Oliver Cromwell led the
+    Parliamentarians alongside the Scots to victory against the Royalists, setting
+    in motion the outcome of the English Civil War.
+  youtube: https://youtu.be/QSM2XnOYjms?si=Jey07j9MR-3nmqqz
+- date: 2025-07-07
+  text: '"Happy landings to you, Amelia Earhart. Farewell, first lady of the air."
+    Red River Dave McEnery penned this tune shortly after the [July 2, 1937](https://en.wikipedia.org/wiki/Amelia_Earhart%27s_Last_Flight)
+    disappearance of Earhart. She would be declared dead in Jan 1939, when the song
+    was published and the subject of an early television broadcast demonstration at
+    the 1939 World''s Fair, making song, singer, and medium as famous as the far gone
+    female flyer.'
+  youtube: https://youtu.be/xUhB3-aHnNc
+- date: 2025-07-06
+  text: '"Must''ve been the Fourth of July..." (or the Saturday thereafter).'
+  youtube: https://youtu.be/PLiMy4NaSKc
+- date: 2025-07-05
+  text: '"My folks brought me home on the fifth of July..."'
+  youtube: https://youtu.be/dM2E70JhlWw
+- date: 2025-07-04
+  text: '"Sandy, the fireworks are hailing over Little Eden tonight..."'
+  youtube: https://youtu.be/KgFHM8HMbWQ
+- date: 2025-07-03
+  text: '"It was the third of July on a cool cloudy sky, I set in for a storm in the
+    makin''"'
+  youtube: https://youtu.be/LgC4wWU_cGI
+- date: 2025-07-02
+  text: On July the Second 1953 - I was serving time for armed robbery..."
+  youtube: https://youtu.be/_0qN6EBrhPU
+- date: 2025-07-01
+  text: '"You''re always on my mind and yet i find I''m reaching for the moon. You''re
+    as far away as the 31st of June."'
+  youtube: https://youtu.be/LkiaUFrrPYY
+- date: 2025-06-30
+  text: '"Reflecting all of my dreams in her face like before, on the last day of
+    June 1934..." An infamous day in history, Nazi leadership exacted an internal
+    purge against Ernst Roehm in [The Night of the Long Knives](https://en.wikipedia.org/wiki/Night_of_the_Long_Knives).'
+  youtube: https://youtu.be/10oAcf5Aqcg
+- date: 2025-06-29
+  text: '"It was a hot afternoon, last day of June..."'
+  youtube: https://youtu.be/87ruZX5JdCk
+- date: 2025-06-28
+  text: '"On the 28th of June, I strolled through a village sun, just a''riotin''"'
+  youtube: https://youtu.be/FhWlNqAH_Nc
+- date: 2025-06-27
+  text: '[June 28, 1914](https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria#Assassination)
+    Archduke Franz Ferdinand and his wife Sophia were assassinated by the Black Hand
+    in Sarajevo. This event marked the end of the 19th century, as the dominoes fell
+    and Europe devolved into the First World War.'
+  youtube: https://youtu.be/HMfprvLp-t8
+- date: 2025-06-24
+  text: '"Goodbye, Ruby Tuesday, who could hang a name on you?"'
+  youtube: https://youtu.be/2PIRzqDrbLQ?si=0PbgX9MkCG7uPj2F
+- date: 2025-06-23
+  text: '"It being on the twenty third of June, the day before the fair, Sure Erin''s
+    sons and daughters, they all assembled there."'
+  youtube: https://youtu.be/52mWDlQLtdQ?si=wgTj1nojLwB2V9XA
+- date: 2025-06-22
+  text: '"Let''s put our heads together and start a new country up..." [June 22, 1969](https://en.wikipedia.org/wiki/Cuyahoga_River)
+    the Cuyahoga River, one of the most polluted waterways in the nation at the time,
+    caught fire near Cleveland, OH. While the river caught fire over a dozen times,
+    it was the June 1969 fire that helped spur the modern environmental movement and
+    galvanize support for the Clean Water Act, which would be passed a few short years
+    later. For its own park, 50 years after the infamous fire the national environmental
+    nonprofit American Rivers named the Cuyahoga the "River of the Year" for local
+    achievements in its environmental restoration.'
+  youtube: https://youtu.be/XdC6thlCAlI
+- date: 2025-06-21
+  text: '"Your daddy''s rich and your ma'' is good-lookin''..."'
+  youtube: https://youtu.be/OdueU1NnbiU?si=4q2e9tlg1JohpVFt
+- date: 2025-06-19
+  text: '"If Thursday was a boat, I''d bet it''d sink..."'
+  youtube: https://youtu.be/5h3nni7j2pc?si=kK7gOaT-oZk5csnS
+- date: 2025-06-15
+  text: '"Well it''s Father''s Day and everybody''s wounded. First we take Manhattan,
+    then we take Berlin!"'
+  youtube: https://youtu.be/JTTC_fD598A?si=4fbmV6Em9xgeUyDm
+- date: 2025-06-14
+  text: '"I drove my car on June 14th"'
+  youtube: https://youtu.be/8eTjbYCdx80
+- date: 2025-06-12
+  text: On [June 12, 1970](https://en.wikipedia.org/wiki/Dock_Ellis#June_12,_1970_no-hitter)
+    Doc Ellis of the PIttsburgh Pirates threw a no-hitter against the San Diego Padres
+    on LSD.
+  youtube: https://youtu.be/KG2SPjcKM4M
+- date: 2025-06-09
+  text: '"Monday, Monday, can''t trust that day, Monday, Monday, it just turns out
+    that way..."'
+  youtube: https://youtu.be/h81Ojd3d2rY?si=tcB2MFbTs8PIzBbm
+- date: 2025-06-06
+  text: '"It was the dark of the moon on the sixth of June"'
+  youtube: https://youtu.be/Sd5ZLJWQmss
+- date: 2025-06-05
+  text: "On [June 5, 1968](https://en.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy),\
+    \ as The Stones recorded the song, JFK\u2019s brother, Robert, was shot dead in\
+    \ Los Angeles in the early morning of June 6. Ever the opportunist, Jagger changed\
+    \ the line to 'Who killed the Kennedys?'"
+  youtube: https://youtu.be/GgnClrx8N2k
+- date: 2025-06-03
+  text: '"It was the third of June, another sleepy, dusty Delta day..."'
+  youtube: https://youtu.be/ci_u65I3gAI
+- date: 2025-06-02
+  text: '"I was born on the 3rd of June. Hard Labor. Gemini moon."'
+  youtube: https://youtu.be/oakikGpTpa0
+- date: 2025-05-30
+  text: '"My sweet Lady Jane / When I see you again?" Henry VIII married his third
+    of six wives Lady Jane on May 30, 1536 nary a week after the execution of his
+    second wife, Anne Boleyn. Mick Jagger, that wily mix of class and crass, likely
+    wrote the song after reading D.H. Lawrence''s "Lady Chatterley''s Lover", a salacious
+    title whose ban was lifted in 1960 in the UK wherein "Lady Jane" is slang you
+    can search for naughty selves.'
+  youtube: https://youtu.be/_K6wUa7yjuo
+- date: 2025-05-26
+  text: Happy birthday, Miles! "Miles Runs the Voodoo Down"
+  youtube: https://youtu.be/s_RdIoHNXLA
+- date: 2025-05-25
+  text: '"Everyone would gather on the 24th of May sitting in the sand to watch the
+    fireworks display."'
+  youtube: https://youtu.be/tgeg-xadx9s
+- date: 2025-05-24
+  text: '"...a line from her letter, May twenty-four."'
+  youtube: https://youtu.be/bBDe9BGNBnM
+- date: 2025-05-23
+  text: '"But you''ll never get your wish (feeling appeal) / On the twenty-fourth
+    of May (your birthday)"'
+  youtube: https://youtu.be/XH8nsquhPqo
+- date: 2025-05-17
+  text: '"You''re riding high in April, shot down in May..."'
+  youtube: https://youtu.be/TnlPtaPxXfc
+- date: 2025-05-16
+  text: '"It''s just another Saturday" (Song title "May 16th")'
+  youtube: https://youtu.be/hzYOA4-xNaA
+- date: 2025-04-30
+  text: '"Switchman''s sleeping, Train hundred and two is On the wrong track and headed
+    for you!" [Casey Jones was a dedicated railroader "killed in action" on April
+    30th, 1900. ](https://en.wikipedia.org/wiki/Casey_Jones)'
+  youtube: https://youtu.be/d160GSGtPxY
+- date: 2025-04-29
+  text: '"April 26th, 1992, There was a riot on the streets. Tell me where were you?"
+    Fun fact from YouTube: The official title of the song references the date April
+    29, 1992; however, the lyric was sang as "April 26, 1992." It has been said this
+    was a mistake, but the take was strong enough the band kept it. To all those that
+    are skeptical about this, just Google Sublime''s discography. CoS: The [1992 Watts
+    Riots ](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots)erupted in South
+    LA following the acquittal of four police officers for the beating of Rodney King.
+    When the dust settled six days later 62 were dead and over 12,000 arrests were
+    made.'
+  youtube: https://youtu.be/e1dPKfxRhk0
+- date: 2025-04-25
+  text: '"Then in nineteen-fifteen my country said son it''s time to stop rambling,
+    there''s work to be done..." [Anzac Day is observed annually on the 25th of April
+    in Australia and New Zealand](https://en.wikipedia.org/wiki/Anzac_Day).'
+  youtube: https://youtu.be/cZqN1glz4JY
+- date: 2025-04-21
+  text: '"It''s April 21st and everybody knows today is Earth Day / Merry Christmas,
+    Happy Birthday to whoever''s being born"'
+  youtube: https://www.youtube.com/watch?v=JVsdmYAYiD0
+- date: 2025-04-19
+  text: '"When you''re lost in the rain in Juarez and it''s Eastertime, too..."'
+  youtube: https://youtu.be/doIMYvZyo_k?si=fH0QkAyv6tQ-lE0J
+- date: 2025-04-17
+  text: '"They''re building bombs while our schools are falling, tell me, what in
+    the hell we''re paying taxes for?..."'
+  youtube: https://youtu.be/tes4s6zKSLs?si=BpifHmVpRMnhXKHU
+- date: 2025-04-16
+  text: '"I work hard for my money / Every April you take it all away"'
+  youtube: https://youtu.be/Ai3YggXpJos
+- date: 2025-04-15
+  text: '"One for you, nineteen for me..." [How to file an extension with the IRS](https://www.irs.gov/newsroom/irs-act-now-to-file-pay-or-request-an-extension).'
+  youtube: https://youtu.be/l0zaebtU-CA
+- date: 2025-04-14
+  text: '"Hey, hey, it was the fourteenth day of April"'
+  youtube: https://youtu.be/mjX2ztmjLk4
+- date: 2025-04-13
+  text: '"It was midnight on the sea, Band playin'' ''Nearer My God to Thee'', Cryin'',
+    ''Fare thee, Titanic, fare thee well.''" The unsinkable Titanic sank on [April
+    15, 1912 at 23:40](https://en.wikipedia.org/wiki/Sinking_of_the_Titanic) (ship''s
+    time) resulting in the death of more than 1500 passengers.'
+  youtube: https://youtu.be/hNlnl8nbfSE
+- date: 2025-04-08
+  text: '"Crawl across toward your window / I''m calling softly from the street"'
+  youtube: https://youtu.be/amhINnExdJE
