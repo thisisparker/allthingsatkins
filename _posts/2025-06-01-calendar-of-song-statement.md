@@ -21,6 +21,10 @@ The Calendar of Song is a site-specific music service linking listeners with dat
 
 ## [](http://allthingsatkins.com/calendar)Bookmark the page and visit daily 
 
+![](/assets/uploads/giorno-phone-thumbnail.jpg)
+
+*John Giorno working the lines and reels behind "Dial-A-Poem".* 
+
 Inspiration for the Calendar of Song includes the groundbreaking “[Dial-A-Poem](https://giornopoetrysystems.org/dial-a-poem/history)”, launched 1968 in Manhattan by John Giorno, which today features 282 recordings from 132 poets. Giorno drew inspiration from other modern art movements that reimagined visual arts into all varying forms of multimedia; he sought to accomplish the same for poetry as his contemporaries had for painting, music, and sculpture. As a juvenile, I encountered another derivative of “Dial A Poem”, They Might Be Giants’ bonhomme “Dial-A-Song”, which featured an early internet interface that factored greatly into my personal imagination of telephone internet systems to deliver dial up modem access to snippets of culture and music. (After all, you enter the Matrix via telephone, right?) The rich history of Dial-A-Song invites interested readers to peruse altmodisch answering machines and alternative weekly classified ads on the satisfyingly detailed account [on TMBG’s fan wiki](https://tmbw.net/wiki/Dial-A-Song). A reimagined version of [Dial-A-Song remains online today](https://dialasong.com/), although the most recent entry is from 2018. 
 
 ![](/assets/uploads/dial-a-poem-rotary-phone.jpg)
