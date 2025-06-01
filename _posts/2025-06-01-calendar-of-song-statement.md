@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calendar of Song Statement
+title: "Calendar of Song: Taking It day by Day"
 tag:
   - music; calendar;
 image: /assets/uploads/giorno-phone-thumbnail.jpg
@@ -11,7 +11,7 @@ date: 2025-06-01T13:01:00.000Z
 ---
 The Calendar of Song is a site-specific music service linking listeners with date-specific songs to contribute cultural context and musical enrichment to their daily browsing lives. It currently features 190 regular entries with an additional 100 “day of the week” songs that weave their way throughout the year. The Calendar of Song is a clock, not a robot, but utilizes unique code to plumb the daily dose of song for web presentation. 
 
-## The Calendar of Song is alive—submit an entry 
+## The Calendar of Song is alive—submit an entry
 
 ## Visit [allthingsatkins.com/calendar](http://allthingsatkins.com/calendar)
 
@@ -28,8 +28,6 @@ Sometime in June 2021 I tossed on my record player the recent gift of *[Music fr
 ![](/assets/uploads/ode-to-billie-joe-movie-poster.jpg)
 
 *Warner Bros sought to capitalize on the popularity of "Billie Joe" by extending the song into a full fledged film in 1976. It was a money maker, but critics widely panned the release.* 
-
-
 
 At the top of Side Two, a raunchy “Louie, Louie” breaks into a stirring rendition of “[Ode to Billie Joe](https://en.wikipedia.org/wiki/Ode_to_Billie_Joe)”, a song once applauded as the most “earthy and fundamental” art piece to come out of Mississippi since Faulkner by a Miami *Herald* critic. Just a year prior to *Music from "Lil’ Brown"*, country singer Bobbie Gentry from Chickasaw County, Mississippi would have a Billboard Number 1 Hit with “Billie Joe”. (It should be noted that legends Barry White and David Axelrod had their fingerprints as A&R men on the path to this ode becoming a smash.) 
 
@@ -56,3 +54,5 @@ I made the choice to select nearly zero Christmas songs. That there is well trod
 ## Acknowledgement 
 
 The Calendar of Song has been a multi-year effort on not only my part, but supported graciously and generously by my friend, [artist-activist and programmer Parker Higgins](https://parkerhiggins.net/). Parker and I have had our clocks synchronized since acquiring matching Casio F91-Ws in 2007, and his creative approach to developing code and deploying the Calendar of Song via Twitter bot and now via All Things Atkins dot com has been a sustaining creative force behind bringing this project to life. Parker also serves as webmaster to All Things Atkins, which, despite the straightforwardness of the website, ensures he receives regular offbeat requests which are always taken in understanding stride.
+
+![](/assets/uploads/gentry-memorial-plaque.jpeg)
