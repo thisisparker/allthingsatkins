@@ -2,7 +2,11 @@
 layout: post
 title: "Calendar of Song: Taking It day by Day"
 tag:
-  - music; calendar;
+  - music
+  - calendar
+  - dialapoem
+  - art
+  - clock
 image: /assets/uploads/giorno-phone-thumbnail.jpg
 description: "Artist statement on the Calendar of Song, a clock that keeps track
   of the music that provides daily context and enrichment to our ears and souls.
