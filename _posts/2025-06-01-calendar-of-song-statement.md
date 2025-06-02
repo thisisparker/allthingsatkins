@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Calendar of Song: Taking It day by Day"
+title: "Calendar of Song: Taking It Day by Day"
 tag:
   - music
   - calendar
