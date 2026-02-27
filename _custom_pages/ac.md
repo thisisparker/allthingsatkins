@@ -46,7 +46,7 @@ Chef Michael Brennan is a true talent who loves to experiment with the menu at t
 
 ### Tony’s Baltimore Bar and Grill ($$), 2800 Atlantic Ave, Atlantic City, NJ
 
-Trendy, late-night, Italian comfort food in an old-school restaurant established in 1927 that still has jukeboxes in their bar booths (they don’t function, but the functional jukebox frequently pipes out old-school soul and doo-wop). Servers are all incredibly colorful, and the bar is a central node for locals who live in and love AC. A favorite of Anthony Bourdain’s, he visited and claimed: “Tony’s Baltimore Grill is a taste of my childhood.” Be sure to get the meatball, also for the adventurous the Clams Casino pizza is a specialty not found elsewhere. Kitchen closes at 3am. 
+Trendy, late-night, Italian comfort food in an old-school restaurant established in 1927 that still has jukeboxes in their bar booths (they don’t function, but the functional jukebox frequently pipes out old-school soul and doo-wop). Servers are all incredibly colorful, and the bar is a central node for locals who live in and love AC. A favorite of Anthony Bourdain’s, he visited and claimed: “Tony’s Baltimore Grill is a taste of my childhood.” Be sure to get the meatball, also for the adventurous the Clams Casino pizza is a specialty not found elsewhere. Tony, Nino, or Stormin' Norman are great hosts at the bar. Kitchen closes at 3am. 
 
 ### Angeloni's Club Madrid ($$$), 2400 Arctic Ave, Atlantic City, NJ
 
@@ -74,7 +74,7 @@ The city's only independent music venue is a true hub of creativity. Most any ni
 
 ### Absecon Lighthouse ($), 31 S Rhode Island Ave, Atlantic City, NJ
 
-State’s tallest lighthouse, open for climbing 228 steps, with views of the ocean (duh) and city to the south. Staff is exceedingly friendly and knowledgeable about AC history. Nice gift shop as well to support the history museum. Ask for Milt or Linda, tell him Michael sent ya....
+State’s tallest lighthouse, open for climbing 228 steps, with views of the ocean (duh) and city to the south. Staff is exceedingly friendly and knowledgeable about AC history. Nice gift shop as well to support the history museum. Ask for Milt or Linda, tell 'em Michael sent ya....
 
 ### Noyes Art Garage (Free, paid parking), 2300 Fairmount Ave, Atlantic City, NJ
 
@@ -100,11 +100,15 @@ Walk out on the water at the only public fishing pier on the island. This spot a
 
 ### Chelsea Pub ($), 8 S Morris Ave, Atlantic City, NJ
 
-Best wings in AC! Chelsea Pub is a wonderful round the clock 24/7 establishment that really delivers on the bar and pub experience. Wings are superb, bar pizza also solid, and the burger is a sleeper as well. Two bars, two jukeboxes, one pool table, and friendly staff who will treat you right whether you're a flock or flying solo. Nothing quite beats the feeling of watching the Phillies on a west coast swing after midnight in the Chelsea Pub. Attached inn with affordable rooms as well. NOTE: It can get swamped with the college crowd unpredictably in summer, but that is just a passing mood. NO PIMPING.
+Best wings in AC! Chelsea Pub is a wonderful round the clock 24/7 establishment that really delivers on the bar and pub experience. Wings are superb, bar pizza also solid, and the burger is a sleeper as well. Two bars, two jukeboxes, one pool table, and friendly staff (Andy!) who will treat you right whether you're a flock or flying solo. Nothing quite beats the feeling of watching the Phillies on a west coast swing after midnight in the Chelsea Pub. Attached inn with affordable rooms as well. NOTE: It can get swamped with the college crowd unpredictably in summer, but that is just a passing mood. NO PIMPING.
+
+### Byrdcage ($$), 3426 Atlantic Ave, Atlantic City, NJ
+
+Atlantic City's only gay bar opened in early 2025, and they've quickly become a hub and dinner spot in the city. Two floors, the upstairs is commonly a spot for dance parties and DJ sets, while downstairs screens Birdcage all the time. (On your third hour in the establishment you'll start to realize how much of the film you've memorized.) Notably the Gluten Free menu will make you blush with its frisky dish and drink names, but all around a solid bet. Worth checking their calendar, since programming ranges from a piano bar to Sinatra Sundays to full out sapphic dance parties. Giulietta and Jason will take great care of you!  
 
 ### Wonder Bar ($$), 3701 Sunset Ave, Atlantic City, NJ
 
-Second best wings in AC, this unassuming sports bar is on the south end of town, situated right on the inlet with waterfront views. Good spot to hang out during a sporting event, but also fine for some wings to dine-in or take home. 
+Second best wings in AC, this unassuming sports bar is on the south end of town, situated right on the inlet with waterfront views. Good spot to hang out during a sporting event, but also fine for some wings to dine-in or take home. Chris is one of the realest bartenders in town, and can spit some serious sports knowledge. 
 
 Many, many others, some fun ones include: 
 
